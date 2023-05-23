@@ -4,8 +4,17 @@ from setuptools import find_packages, setup
 with open("README.md","r",encoding="utf-8-sig") as f:
     readme = f.read()
 
-with open("requirements.txt","r",encoding="utf-8-sig") as f:
-    requirements = [i.strip() for i in f.readlines()]
+requirements = [
+    "Cython",
+    "librosa",
+    "scipy",
+    "numpy",
+    "phonemizer",
+    "torch",
+    "torchvision",
+    "Unidecode",
+    "monotonic-align"
+]
 
 setup(
     name="ttsmms",
