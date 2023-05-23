@@ -12,7 +12,7 @@ Support 1,143 Languages! (See support_list.txt)
 
 ## Install
 
-> pip install https://github.com/wannaphong/ttsmms/archive/refs/heads/main.zip
+> pip install ttsmms
 
 
 ## Usage
