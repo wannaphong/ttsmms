@@ -40,8 +40,8 @@ tts=TTS("model_dir_path") # your path dir that extract a tar ball archive
 wav=tts.synthesis("txt")
 # output:
 # {
-    "x":array(wav array),
-    "sampling_rate": 16000
+#    "x":array(wav array),
+#    "sampling_rate": 16000
 # }
 
 tts.synthesis("txt",wav_path="example.wav")
