@@ -1,0 +1,1144 @@
+Iso Code   Language Name
+abi   Abidji
+ace   Aceh
+aca   Achagua
+acn   Achang
+acr   Achi
+ach   Acholi
+acu   Achuar-Shiwiar
+guq   Aché
+ade   Adele
+adj   Adioukrou
+agd   Agarabi
+agx   Aghul
+agn   Agutaynen
+aha   Ahanta
+aka   Akan
+knj   Akateko
+ake   Akawaio
+aeu   Akeu
+ahk   Akha
+bss   Akoose
+alj   Alangan
+sqi   Albanian
+alt   Altai, Southern
+alp   Alune
+alz   Alur
+kab   Amazigh
+amk   Ambai
+mmg   Ambrym, North
+amh   Amharic
+ami   Amis
+azg   Amuzgo, San Pedro Amuzgos
+agg   Angor
+boj   Anjam
+cko   Anufo
+any   Anyin
+arl   Arabela
+ara   Arabic
+atq   Aralle-Tabulahan
+luc   Aringa
+hyw   Armenian, Western
+apr   Arop-Lokep
+aia   Arosi
+msy   Aruamu
+cni   Asháninka
+cjo   Ashéninka, Pajonal
+cpu   Ashéninka, Pichis
+cpb   Ashéninka, Ucayali-Yurúa
+asm   Assamese
+asa   Asu
+teo   Ateso
+ati   Attié
+djk   Aukan
+ava   Avar
+avn   Avatime
+avu   Avokaya
+awb   Awa
+kwi   Awa-Cuaiquer
+awa   Awadhi
+agr   Awajún
+agu   Awakateko
+ayr   Aymara, Central
+ayo   Ayoreo
+abp   Ayta, Abellen
+blx   Ayta, Mag-Indi
+sgb   Ayta, Mag-antsi
+azj-script_cyrillic   Azerbaijani, North
+azj-script_latin   Azerbaijani, North
+azb   Azerbaijani, South
+bba   Baatonum
+bhz   Bada
+bvc   Baelelea
+bfy   Bagheli
+bgq   Bagri
+bdq   Bahnar
+bdh   Baka
+bqi   Bakhtiâri
+bjw   Bakwé
+blz   Balantak
+ban   Bali
+bcc-script_latin   Balochi, Southern
+bcc-script_arabic   Balochi, Southern
+bam   Bamanankan
+ptu   Bambam
+bcw   Bana
+bqj   Bandial
+bno   Bantoanon
+bbb   Barai
+bfa   Bari
+bjz   Baruga
+bak   Bashkort
+eus   Basque
+bsq   Bassa
+akb   Batak Angkola
+btd   Batak Dairi
+btx   Batak Karo
+bts   Batak Simalungun
+bbc   Batak Toba
+bvz   Bauzi
+bjv   Bedjond
+bep   Behoa
+bkv   Bekwarra
+bzj   Belize English Creole
+bem   Bemba
+bng   Benga
+ben   Bengali
+bom   Berom
+btt   Bete-Bendi
+bha   Bharia
+bgw   Bhatri
+bht   Bhattiyali
+beh   Biali
+sne   Bidayuh, Bau
+ubl   Bikol, Buhi’non
+bcl   Bikol, Central
+bim   Bimoba
+bkd   Binukid
+bjr   Binumarien
+bfo   Birifor, Malba
+biv   Birifor, Southern
+bib   Bisa
+bis   Bislama
+bzi   Bisu
+bqp   Bisã
+bpr   Blaan, Koronadal
+bps   Blaan, Sarangani
+bwq   Bobo Madaré, Southern
+bdv   Bodo Parja
+bqc   Boko
+bus   Bokobaru
+bnp   Bola
+bmq   Bomu
+bdg   Bonggi
+boa   Bora
+ksr   Borong
+bor   Borôro
+bru   Bru, Eastern
+box   Buamu
+bzh   Buang, Mapos
+bgt   Bughotu
+sab   Buglere
+bul   Bulgarian
+bwu   Buli
+bmv   Bum
+mya   Burmese
+tte   Bwanabwana
+cjp   Cabécar
+cbv   Cacua
+kaq   Capanahua
+cot   Caquinte
+cbc   Carapana
+car   Carib
+cat   Catalan
+ceb   Cebuano
+cme   Cerma
+cbi   Chachi
+ceg   Chamacoco
+cly   Chatino, Eastern Highland
+cya   Chatino, Nopala
+che   Chechen
+hne   Chhattisgarhi
+nya   Chichewa
+dig   Chidigo
+dug   Chiduruma
+bgr   Chin, Bawm
+cek   Chin, Eastern Khumi
+cfm   Chin, Falam
+cnh   Chin, Hakha
+hlt   Chin, Matu
+mwq   Chin, Müün
+ctd   Chin, Tedim
+tcz   Chin, Thado
+zyp   Chin, Zyphe
+cco   Chinantec, Comaltepec
+cnl   Chinantec, Lalana
+cle   Chinantec, Lealao
+chz   Chinantec, Ozumacín
+cpa   Chinantec, Palantla
+cso   Chinantec, Sochiapam
+cnt   Chinantec, Tepetotutla
+cuc   Chinantec, Usila
+hak   Chinese, Hakka
+nan   Chinese, Min Nan
+xnj   Chingoni
+cap   Chipaya
+cax   Chiquitano
+ctg   Chittagonian
+ctu   Chol
+chf   Chontal, Tabasco
+cce   Chopi
+crt   Chorote, Iyojwa’ja
+crq   Chorote, Iyo’wujwa
+cac-dialect_sansebastiáncoatán   Chuj
+cac-dialect_sanmateoixtatán   Chuj
+ckt   Chukchi
+ncu   Chumburung
+cdj   Churahi
+chv   Chuvash
+caa   Ch’orti’
+asg   Cishingini
+con   Cofán
+crn   Cora, El Nayar
+cok   Cora, Santa Teresa
+crk-script_latin   Cree, Plains
+crk-script_syllabics   Cree, Plains
+crh   Crimean Tatar
+cui   Cuiba
+dsh   Daasanach
+dbq   Daba
+dga   Dagaare, Southern
+dgi   Dagara, Northern
+dgk   Dagba
+dnj-dialect_gweetaawueast   Dan
+dnj-dialect_blowowest   Dan
+daa   Dangaléat
+dnt   Dani, Mid Grand Valley
+dnw   Dani, Western
+dar   Dargwa
+tcc   Datooga
+dwr   Dawro
+ded   Dedua
+mzw   Deg
+ntr   Delo
+ddn   Dendi
+des   Desano
+dso   Desiya
+nfa   Dhao
+dhi   Dhimal
+gud   Dida, Yocoboué
+did   Didinga
+mhu   Digaro-Mishmi
+dip   Dinka, Northeastern
+dik   Dinka, Southwestern
+tbz   Ditammari
+dts   Dogon, Toro So
+dos   Dogosé
+dgo   Dogri
+mvp   Duri
+nld   Dutch
+jen   Dza
+dzo   Dzongkha
+idd   Ede Idaca
+eka   Ekajuk
+cto   Embera Catío
+emp   Emberá, Northern
+eng   English
+enx   Enxet
+sja   Epena
+myv   Erzya
+mcq   Ese
+ese   Ese Ejja
+evn   Evenki
+eza   Ezaa
+fal   Fali, South
+fao   Faroese
+far   Fataleka
+fij   Fijian
+fin   Finnish
+fon   Fon
+frd   Fordata
+fra   French
+ful   Fulah
+flr   Fuliiru
+gau   Gadaba, Mudhili
+gbk   Gaddi
+gag-script_cyrillic   Gagauz
+gag-script_latin   Gagauz
+gbi   Galela
+gmv   Gamo
+lug   Ganda
+pwg   Gapapaiwa
+gbm   Garhwali
+cab   Garifuna
+grt   Garo
+krs   Gbaya
+gso   Gbaya, Southwest
+nlg   Gela
+gej   Gen
+deu   German, Standard
+gri   Ghari
+kik   Gikuyu
+acd   Gikyode
+glk   Gilaki
+gof-script_latin   Gofa
+gog   Gogo
+gkn   Gokana
+wsg   Gondi, Adilabad
+gjn   Gonja
+gqr   Gor
+gor   Gorontalo
+gux   Gourmanchéma
+gbo   Grebo, Northern
+ell   Greek
+grc   Greek, Ancient
+guh   Guahibo
+gub   Guajajára
+grn   Guarani
+gyr   Guarayu
+guo   Guayabero
+gde   Gude
+guj   Gujarati
+gvl   Gulay
+guk   Gumuz
+rub   Gungu
+dah   Gwahatike
+gwr   Gwere
+gwi   Gwich’in
+hat   Haitian Creole
+hlb   Halbi
+amf   Hamer-Banna
+hag   Hanga
+hnn   Hanunoo
+bgc   Haryanvi
+had   Hatam
+hau   Hausa
+hwc   Hawaii Pidgin
+hvn   Hawu
+hay   Haya
+xed   Hdi
+heb   Hebrew
+heh   Hehe
+hil   Hiligaynon
+hin   Hindi
+hif   Hindi, Fiji
+hns   Hindustani, Sarnami
+hoc   Ho
+hoy   Holiya
+hus-dialect_westernpotosino   Huastec
+hus-dialect_centralveracruz   Huastec
+huv   Huave, San Mateo del Mar
+hui   Huli
+hun   Hungarian
+hap   Hupla
+iba   Iban
+isl   Icelandic
+dbj   Ida’an
+ifa   Ifugao, Amganad
+ifb   Ifugao, Batad
+ifu   Ifugao, Mayoyao
+ifk   Ifugao, Tuwali
+ife   Ifè
+ign   Ignaciano
+ikk   Ika
+iqw   Ikwo
+ilb   Ila
+ilo   Ilocano
+imo   Imbongu
+ind   Indonesian
+inb   Inga
+ipi   Ipili
+irk   Iraqw
+icr   Islander English Creole
+itv   Itawit
+itl   Itelmen
+atg   Ivbie North-Okpela-Arhe
+ixl-dialect_sanjuancotzal   Ixil
+ixl-dialect_sangasparchajul   Ixil
+ixl-dialect_santamarianebaj   Ixil
+nca   Iyo
+izr   Izere
+izz   Izii
+jac   Jakalteko
+jam   Jamaican English Creole
+jav   Javanese
+jvn   Javanese, Suriname
+kac   Jingpho
+dyo   Jola-Fonyi
+csk   Jola-Kasa
+adh   Jopadhola
+jun   Juang
+jbu   Jukun Takum
+dyu   Jula
+bex   Jur Modo
+juy   Juray
+gna   Kaansa
+urb   Kaapor
+kbp   Kabiyè
+cwa   Kabwa
+dtp   Kadazan Dusun
+kbr   Kafa
+cgc   Kagayanen
+kki   Kagulu
+kzf   Kaili, Da’a
+lew   Kaili, Ledo
+cbr   Kakataibo-Kashibo
+kkj   Kako
+keo   Kakwa
+kqe   Kalagan
+kak   Kalanguya
+kyb   Kalinga, Butbut
+knb   Kalinga, Lubuagan
+kmd   Kalinga, Majukayang
+kml   Kalinga, Tanudan
+ify   Kallahan, Keley-i
+xal   Kalmyk-Oirat
+kbq   Kamano
+kay   Kamayurá
+ktb   Kambaata
+hig   Kamwe
+gam   Kandawo
+cbu   Kandozi-Chapra
+xnr   Kangri
+kmu   Kanite
+kne   Kankanaey
+kan   Kannada
+kby   Kanuri, Manga
+pam   Kapampangan
+cak-dialect_santamaríadejesús   Kaqchikel
+cak-dialect_southcentral   Kaqchikel
+cak-dialect_yepocapa   Kaqchikel
+cak-dialect_western   Kaqchikel
+cak-dialect_santodomingoxenacoj   Kaqchikel
+cak-dialect_central   Kaqchikel
+xrb   Karaboro, Eastern
+krc   Karachay-Balkar
+kaa   Karakalpak
+krl   Karelian
+pww   Karen, Pwo Northern
+xsm   Kasem
+cbs   Kashinawa
+pss   Kaulong
+kxf   Kawyaw
+kyz   Kayabí
+kyu   Kayah, Western
+txu   Kayapó
+kaz   Kazakh
+ndp   Kebu
+kbo   Keliko
+kyq   Kenga
+ken   Kenyang
+ker   Kera
+xte   Ketengban
+kyg   Keyagana
+kjh   Khakas
+kca   Khanty
+khm   Khmer
+kxm   Khmer, Northern
+kjg   Khmu
+nyf   Kigiryama
+kij   Kilivila
+kia   Kim
+kqr   Kimaragang
+kqp   Kimré
+krj   Kinaray-a
+zga   Kinga
+kin   Kinyarwanda
+pkb   Kipfokomo
+geb   Kire
+gil   Kiribati
+kje   Kisar
+kss   Kisi, Southern
+thk   Kitharaka
+klu   Klao
+kyo   Klon
+kog   Kogi
+kfb   Kolami, Northwestern
+kpv   Komi-Zyrian
+bbo   Konabéré
+xon   Konkomba
+kma   Konni
+kno   Kono
+kxc   Konso
+ozm   Koonzime
+kqy   Koorete
+kor   Korean
+coe   Koreguaje
+kpq   Korupun-Sela
+kpy   Koryak
+kyf   Kouya
+kff-script_telugu   Koya
+kri   Krio
+rop   Kriol
+ktj   Krumen, Plapo
+ted   Krumen, Tepo
+krr   Krung
+kdt   Kuay
+kez   Kukele
+cul   Kulina
+kle   Kulung
+kdi   Kumam
+kue   Kuman
+kum   Kumyk
+kvn   Kuna, Border
+cuk   Kuna, San Blas
+kdn   Kunda
+xuo   Kuo
+key   Kupia
+kpz   Kupsapiiny
+knk   Kuranko
+kmr-script_latin   Kurdish, Northern
+kmr-script_arabic   Kurdish, Northern
+kmr-script_cyrillic   Kurdish, Northern
+xua   Kurumba, Alu
+kru   Kurux
+kus   Kusaal
+kub   Kutep
+kdc   Kutu
+kxv   Kuvi
+blh   Kuwaa
+cwt   Kuwaataay
+kwd   Kwaio
+tnk   Kwamera
+kwf   Kwara’ae
+cwe   Kwere
+kyc   Kyaka
+tye   Kyanga
+kir   Kyrgyz
+quc-dialect_north   K’iche’
+quc-dialect_east   K’iche’
+quc-dialect_central   K’iche’
+lac   Lacandon
+lsi   Lacid
+lbj   Ladakhi
+lhu   Lahu
+las   Lama
+lam   Lamba
+lns   Lamnso’
+ljp   Lampung Api
+laj   Lango
+lao   Lao
+lat   Latin
+lav   Latvian
+law   Lauje
+lcp   Lawa, Western
+lzz   Laz
+lln   Lele
+lef   Lelemi
+acf   Lesser Antillean French Creole
+lww   Lewo
+mhx   Lhao Vo
+eip   Lik
+lia   Limba, West-Central
+lif   Limbu
+onb   Lingao
+lis   Lisu
+loq   Lobala
+lob   Lobi
+yaz   Lokaa
+lok   Loko
+llg   Lole
+ycl   Lolopo
+lom   Loma
+ngl   Lomwe
+lon   Lomwe, Malawi
+lex   Luang
+lgg   Lugbara
+ruf   Luguru
+dop   Lukpa
+lnd   Lundayeh
+ndy   Lutos
+lwo   Luwo
+lee   Lyélé
+mev   Maan
+mfz   Mabaan
+jmc   Machame
+myy   Macuna
+mbc   Macushi
+mda   Mada
+mad   Madura
+mag   Magahi
+ayz   Mai Brat
+mai   Maithili
+mca   Maka
+mcp   Makaa
+mak   Makasar
+vmw   Makhuwa
+mgh   Makhuwa-Meetto
+kde   Makonde
+mlg   Malagasy
+zlm   Malay
+pse   Malay, Central
+mkn   Malay, Kupang
+xmm   Malay, Manado
+mal   Malayalam
+xdy   Malayic Dayak
+div   Maldivian
+mdy   Male
+mup   Malvi
+mam-dialect_central   Mam
+mam-dialect_northern   Mam
+mam-dialect_southern   Mam
+mam-dialect_western   Mam
+mqj   Mamasa
+mcu   Mambila, Cameroon
+mzk   Mambila, Nigeria
+maw   Mampruli
+mjl   Mandeali
+mnk   Mandinka
+mge   Mango
+mbh   Mangseng
+knf   Mankanya
+mjv   Mannan
+mbt   Manobo, Matigsalug
+obo   Manobo, Obo
+mbb   Manobo, Western Bukidnon
+mzj   Manya
+sjm   Mapun
+mrw   Maranao
+mar   Marathi
+mpg   Marba
+mhr   Mari, Meadow
+enb   Markweeta
+mah   Marshallese
+myx   Masaaba
+klv   Maskelynes
+mfh   Matal
+met   Mato
+mcb   Matsigenka
+mop   Maya, Mopán
+yua   Maya, Yucatec
+mfy   Mayo
+maz   Mazahua, Central
+vmy   Mazatec, Ayautla
+maq   Mazatec, Chiquihuitlán
+mzi   Mazatec, Ixcatlán
+maj   Mazatec, Jalapa de Díaz
+maa-dialect_sanantonio   Mazatec, San Jerónimo Tecóatl
+maa-dialect_sanjerónimo   Mazatec, San Jerónimo Tecóatl
+mhy   Ma’anyan
+mhi   Ma’di
+zmz   Mbandja
+myb   Mbay
+gai   Mbore
+mqb   Mbuko
+mbu   Mbula-Bwazza
+med   Melpa
+men   Mende
+mee   Mengen
+mwv   Mentawai
+meq   Merey
+zim   Mesme
+mgo   Meta’
+mej   Meyah
+mpp   Migabac
+min   Minangkabau
+gum   Misak
+mpx   Misima-Panaeati
+mco   Mixe, Coatlán
+mxq   Mixe, Juquila
+pxm   Mixe, Quetzaltepec
+mto   Mixe, Totontepec
+mim   Mixtec, Alacatlatzala
+xta   Mixtec, Alcozauca
+mbz   Mixtec, Amoltepec
+mip   Mixtec, Apasco-Apoala
+mib   Mixtec, Atatlahuca
+miy   Mixtec, Ayutla
+mih   Mixtec, Chayuco
+miz   Mixtec, Coatzospan
+xtd   Mixtec, Diuxi-Tilantongo
+mxt   Mixtec, Jamiltepec
+xtm   Mixtec, Magdalena Peñasco
+mxv   Mixtec, Metlatónoc
+xtn   Mixtec, Northern Tlaxiaco
+mie   Mixtec, Ocotepec
+mil   Mixtec, Peñoles
+mio   Mixtec, Pinotepa Nacional
+mdv   Mixtec, Santa Lucía Monteverde
+mza   Mixtec, Santa María Zacatepec
+mit   Mixtec, Southern Puebla
+mxb   Mixtec, Tezoatlán
+mpm   Mixtec, Yosondúa
+soy   Miyobe
+cmo-script_latin   Mnong, Central
+cmo-script_khmer   Mnong, Central
+mfq   Moba
+old   Mochi
+mfk   Mofu, North
+mif   Mofu-Gudur
+mkl   Mokole
+mox   Molima
+myl   Moma
+mqf   Momuna
+mnw   Mon
+mon   Mongolian
+mog   Mongondow
+mfe   Morisyen
+mor   Moro
+mqn   Moronene
+mgd   Moru
+mtj   Moskona
+cmr   Mro-Khimi
+mtd   Mualang
+bmr   Muinane
+moz   Mukulu
+mzm   Mumuye
+mnb   Muna
+mnf   Mundani
+unr   Mundari
+fmu   Muria, Far Western
+mur   Murle
+tih   Murut, Timugon
+muv   Muthuvan
+muy   Muyang
+sur   Mwaghavul
+moa   Mwan
+wmw   Mwani
+tnr   Ménik
+miq   Mískito
+mos   Mòoré
+muh   Mündü
+nas   Naasioi
+mbj   Nadëb
+nfr   Nafaanra
+kfw   Naga, Kharam
+nst   Naga, Tangshang
+nag   Nagamese
+nch   Nahuatl, Central Huasteca
+nhe   Nahuatl, Eastern Huasteca
+ngu   Nahuatl, Guerrero
+azz   Nahuatl, Highland Puebla
+nhx   Nahuatl, Isthmus-Mecayapan
+ncl   Nahuatl, Michoacán
+nhy   Nahuatl, Northern Oaxaca
+ncj   Nahuatl, Northern Puebla
+nsu   Nahuatl, Sierra Negra
+npl   Nahuatl, Southeastern Puebla
+nuz   Nahuatl, Tlamacazapa
+nhw   Nahuatl, Western Huasteca
+nhi   Nahuatl, Zacatlán-Ahuacatlán-Tepetzintla
+nlc   Nalca
+nab   Nambikuára, Southern
+gld   Nanai
+nnb   Nande
+npy   Napu
+pbb   Nasa
+ntm   Nateni
+nmz   Nawdm
+naw   Nawuri
+nxq   Naxi
+ndj   Ndamba
+ndz   Ndogo
+ndv   Ndut
+new   Newar
+nij   Ngaju
+sba   Ngambay
+gng   Ngangam
+nga   Ngbaka
+nnq   Ngindo
+ngp   Ngulu
+gym   Ngäbere
+kdj   Ng’akarimojong
+nia   Nias
+nim   Nilamba
+nin   Ninzo
+nko   Nkonya
+nog   Nogai
+lem   Nomaande
+not   Nomatsigenga
+nhu   Noone
+bud   Ntcham
+nus   Nuer
+yas   Nugunu
+nnw   Nuni, Southern
+nwb   Nyabwa
+nyy   Nyakyusa-Ngonde
+nyn   Nyankore
+rim   Nyaturu
+lid   Nyindrou
+nuj   Nyole
+nyo   Nyoro
+nzi   Nzema
+ann   Obolo
+ory   Odia
+ojb-script_latin   Ojibwa, Northwestern
+ojb-script_syllabics   Ojibwa, Northwestern
+oku   Oku
+bsc   Oniyan
+bdu   Oroko
+orm   Oromo
+ury   Orya
+oss   Ossetic
+ote   Otomi, Mezquital
+otq   Otomi, Querétaro
+stn   Owa
+sig   Paasaal
+kfx   Pahari, Kullu
+bfz   Pahari, Mahasu
+sey   Paicoca
+pao   Paiute, Northern
+pau   Palauan
+pce   Palaung, Ruching
+plw   Palawano, Brooke’s Point
+pmf   Pamona
+pag   Pangasinan
+pap   Papiamentu
+prf   Paranan
+pab   Parecís
+pbi   Parkwa
+pbc   Patamona
+pad   Paumarí
+ata   Pele-Ata
+pez   Penan, Eastern
+peg   Pengo
+fas   Persian
+pcm   Pidgin, Nigerian
+pis   Pijin
+pny   Pinyin
+pir   Piratapuyo
+pjt   Pitjantjatjara
+poy   Pogolo
+pol   Polish
+pps   Popoloca, San Luís Temalacayuca
+pls   Popoloca, San Marcos Tlacoyalco
+poi   Popoluca, Highland
+poh-dialect_eastern   Poqomchi’
+poh-dialect_western   Poqomchi’
+por   Portuguese
+prt   Prai
+pui   Puinave
+pan   Punjabi, Eastern
+tsz   Purepecha
+suv   Puroik
+lme   Pévé
+quy   Quechua, Ayacucho
+qvc   Quechua, Cajamarca
+quz   Quechua, Cusco
+qve   Quechua, Eastern Apurímac
+qub   Quechua, Huallaga
+qvh   Quechua, Huamalíes-Dos de Mayo Huánuco
+qwh   Quechua, Huaylas Ancash
+qvw   Quechua, Huaylla Wanca
+quf   Quechua, Lambayeque
+qvm   Quechua, Margos-Yarowilca-Lauricocha
+qul   Quechua, North Bolivian
+qvn   Quechua, North Junín
+qxn   Quechua, Northern Conchucos Ancash
+qxh   Quechua, Panao
+qvs   Quechua, San Martín
+quh   Quechua, South Bolivian
+qxo   Quechua, Southern Conchucos
+qxr   Quichua, Cañar Highland
+qvo   Quichua, Napo
+qvz   Quichua, Northern Pastaza
+qxl   Quichua, Salasaca Highland
+quw   Quichua, Tena Lowland
+kjb   Q’anjob’al
+kek   Q’eqchi’
+rah   Rabha
+rjs   Rajbanshi
+rai   Ramoaaina
+lje   Rampi
+rnl   Ranglong
+rkt   Rangpuri
+rap   Rapa Nui
+yea   Ravula
+raw   Rawang
+rej   Rejang
+rel   Rendille
+ril   Riang Lang
+iri   Rigwe
+rgu   Rikou
+rhg   Rohingya
+rmc-script_latin   Romani, Carpathian
+rmc-script_cyrillic   Romani, Carpathian
+rmo   Romani, Sinte
+rmy-script_latin   Romani, Vlax
+rmy-script_cyrillic   Romani, Vlax
+ron   Romanian
+rol   Romblomanon
+cla   Ron
+rng   Ronga
+rug   Roviana
+run   Rundi
+rus   Russian
+lsm   Saamya-Gwe
+spy   Sabaot
+sck   Sadri
+saj   Sahu
+sch   Sakachep
+sml   Sama, Central
+xsb   Sambal
+sbl   Sambal, Botolan
+saq   Samburu
+sbd   Samo, Southern
+smo   Samoan
+rav   Sampang
+sxn   Sangir
+sag   Sango
+sbp   Sangu
+xsu   Sanumá
+srm   Saramaccan
+sas   Sasak
+apb   Sa’a
+sgw   Sebat Bet Gurage
+tvw   Sedoa
+lip   Sekpele
+slu   Selaru
+snw   Selee
+sea   Semai
+sza   Semelai
+seh   Sena
+crs   Seychelles French Creole
+ksb   Shambala
+shn   Shan
+sho   Shanga
+mcd   Sharanahua
+cbt   Shawi
+xsr   Sherpa
+shk   Shilluk
+shp   Shipibo-Conibo
+sna   Shona
+cjs   Shor
+jiv   Shuar
+snp   Siane
+sya   Siang
+sid   Sidamo
+snn   Siona
+sri   Siriano
+srx   Sirmauri
+sil   Sisaala, Tumulung
+sld   Sissala
+akp   Siwu
+xog   Soga
+som   Somali
+bmu   Somba-Siawari
+khq   Songhay, Koyra Chiini
+ses   Songhay, Koyraboro Senni
+mnx   Sougb
+spa   Spanish
+srn   Sranan Tongo
+sxb   Suba
+suc   Subanon, Western
+tgo   Sudest
+suk   Sukuma
+sun   Sunda
+suz   Sunwar
+sgj   Surgujia
+sus   Susu
+swh   Swahili
+swe   Swedish
+syl   Sylheti
+dyi   Sénoufo, Djimini
+myk   Sénoufo, Mamara
+spp   Sénoufo, Supyire
+tap   Taabwa
+tby   Tabaru
+tna   Tacana
+shi   Tachelhit
+klw   Tado
+tgl   Tagalog
+tbk   Tagbanwa, Calamian
+tgj   Tagin
+blt   Tai Dam
+tbg   Tairora, North
+omw   Tairora, South
+tgk   Tajik
+tdj   Tajio
+tbc   Takia
+tlj   Talinga-Bwisi
+tly   Talysh
+ttq-script_tifinagh   Tamajaq, Tawallammat
+taj   Tamang, Eastern
+taq   Tamasheq
+tam   Tamil
+tpm   Tampulma
+tgp   Tangoa
+tnn   Tanna, North
+tac   Tarahumara, Western
+rif-script_latin   Tarifit
+rif-script_arabic   Tarifit
+tat   Tatar
+tav   Tatuyo
+twb   Tawbuid
+tbl   Tboli
+kps   Tehit
+twe   Teiwa
+ttc   Tektiteko
+tel   Telugu
+kdh   Tem
+tes   Tengger
+tex   Tennet
+tee   Tepehua, Huehuetla
+tpp   Tepehua, Pisaflores
+tpt   Tepehua, Tlachichilco
+stp   Tepehuan, Southeastern
+tfr   Teribe
+twu   Termanu
+ter   Terêna
+tew   Tewa
+tha   Thai
+nod   Thai, Northern
+thl   Tharu, Dangaura
+tem   Themne
+adx   Tibetan, Amdo
+bod   Tibetan, Central
+khg   Tibetan, Khams
+tca   Ticuna
+tir   Tigrigna
+txq   Tii
+tik   Tikar
+dgr   Tlicho
+tob   Toba
+tmf   Toba-Maskoy
+tng   Tobanga
+tlb   Tobelo
+ood   Tohono O’odham
+tpi   Tok Pisin
+jic   Tol
+lbw   Tolaki
+txa   Tombonuo
+tom   Tombulu
+toh   Tonga
+tnt   Tontemboan
+sda   Toraja-Sa’dan
+tcs   Torres Strait Creole
+toc   Totonac, Coyutla
+tos   Totonac, Highland
+neb   Toura
+trn   Trinitario
+trs   Triqui, Chicahuaxtla
+trc   Triqui, Copala
+tri   Trió
+cof   Tsafiki
+tkr   Tsakhur
+kdl   Tsikimba
+cas   Tsimané
+tso   Tsonga
+tuo   Tucano
+iou   Tuma-Irumu
+tmc   Tumak
+tuf   Tunebo, Central
+tur   Turkish
+tuk-script_latin   Turkmen
+tuk-script_arabic   Turkmen
+bov   Tuwuli
+tue   Tuyuca
+kcg   Tyap
+tzh-dialect_bachajón   Tzeltal
+tzh-dialect_tenejapa   Tzeltal
+tzo-dialect_chenalhó   Tzotzil
+tzo-dialect_chamula   Tzotzil
+tzj-dialect_western   Tz’utujil
+tzj-dialect_eastern   Tz’utujil
+aoz   Uab Meto
+udm   Udmurt
+udu   Uduk
+ukr   Ukrainian
+ppk   Uma
+ubu   Umbu-Ungu
+urk   Urak Lawoi’
+ura   Urarina
+urt   Urat
+urd-script_devanagari   Urdu
+urd-script_arabic   Urdu
+urd-script_latin   Urdu
+upv   Uripiv-Wala-Rano-Atchin
+usp   Uspanteko
+uig-script_arabic   Uyghur
+uig-script_cyrillic   Uyghur
+uzb-script_cyrillic   Uzbek
+vag   Vagla
+bav   Vengo
+vid   Vidunda
+vie   Vietnamese
+vif   Vili
+vun   Vunjo
+vut   Vute
+prk   Wa, Parauk
+wwa   Waama
+rro   Waima
+bao   Waimaha
+waw   Waiwai
+lgl   Wala
+wlx   Wali
+cou   Wamey
+hub   Wampís
+gvc   Wanano
+mfi   Wandala
+wap   Wapishana
+wba   Warao
+war   Waray-Waray
+way   Wayana
+guc   Wayuu
+cym   Welsh
+kvw   Wersing
+tnp   Whitesands
+hto   Witoto, Minika
+huu   Witoto, Murui
+wal-script_latin   Wolaytta
+wal-script_ethiopic   Wolaytta
+wlo   Wolio
+noa   Woun Meu
+wob   Wè Northern
+kao   Xaasongaxango
+xer   Xerénte
+yad   Yagua
+yka   Yakan
+sah   Yakut
+yba   Yala
+yli   Yali, Angguruk
+nlk   Yali, Ninia
+yal   Yalunka
+yam   Yamba
+yat   Yambeta
+jmd   Yamdena
+tao   Yami
+yaa   Yaminahua
+ame   Yanesha’
+guu   Yanomamö
+yao   Yao
+yre   Yaouré
+yva   Yawa
+ybb   Yemba
+pib   Yine
+byr   Yipma
+pil   Yom
+yor   Yoruba
+ycn   Yucuna
+ess   Yupik, Saint Lawrence Island
+yuz   Yuracare
+atb   Zaiwa
+zne   Zande
+zaq   Zapotec, Aloápam
+zpo   Zapotec, Amatlán
+zad   Zapotec, Cajonos
+zpc   Zapotec, Choapan
+zca   Zapotec, Coatecas Altas
+zpg   Zapotec, Guevea de Humboldt
+zai   Zapotec, Isthmus
+zpl   Zapotec, Lachixío
+zam   Zapotec, Miahuatlán
+zaw   Zapotec, Mitla
+zpm   Zapotec, Mixtepec
+zac   Zapotec, Ocotlán
+zao   Zapotec, Ozolotepec
+ztq   Zapotec, Quioquitani-Quierí
+zar   Zapotec, Rincón
+zpt   Zapotec, San Vicente Coatlán
+zpi   Zapotec, Santa María Quiegolani
+zas   Zapotec, Santo Domingo Albarradas
+zaa   Zapotec, Sierra de Juárez
+zpz   Zapotec, Texmelucan
+zab   Zapotec, Western Tlacolula Valley
+zpu   Zapotec, Yalálag
+zae   Zapotec, Yareni
+zty   Zapotec, Yatee
+zav   Zapotec, Yatzachi
+zza   Zaza
+zyb   Zhuang, Yongbei
+ziw   Zigula
+zos   Zoque, Francisco León
+gnd   Zulgo-Gemzek
+ewe   Éwé

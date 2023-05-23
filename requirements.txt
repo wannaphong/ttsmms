@@ -1,0 +1,9 @@
+Cython
+librosa
+scipy
+numpy
+phonemizer
+torch
+torchvision
+Unidecode
+monotonic-align
