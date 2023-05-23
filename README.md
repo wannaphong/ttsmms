@@ -10,6 +10,8 @@ Support 1,143 Languages! (See support_list.txt)
 
 [Google colab](https://colab.research.google.com/github/wannaphong/ttsmms/blob/main/notebook/test.ipynb)
 
+**Don't forget the TTS model in MMS project use CC-BY-SA-ND license.**
+
 ## Install
 
 > pip install ttsmms
