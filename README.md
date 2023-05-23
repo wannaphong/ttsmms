@@ -27,7 +27,7 @@ and extract a tar ball archive.
 
 **Linux/Mac**
 
-!mkdir -p data && tar -xzf tha.tar.gz -C data/
+> mkdir -p data && tar -xzf lang_code.tar.gz -C data/
 
 and use code in python :D
 
