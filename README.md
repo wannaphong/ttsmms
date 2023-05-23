@@ -8,6 +8,8 @@ Support 1,143 Languages! (See support_list.txt)
 - VITS: [GitHub](https://github.com/jaywalnut310/vits)
 - MMS: Scaling Speech Technology to 1000+ languages: [GitHub](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
 
+[Google colab](https://colab.research.google.com/github/wannaphong/ttsmms/blob/main/notebook/test.ipynb)
+
 ## Install
 
 > pip install https://github.com/wannaphong/ttsmms/archive/refs/heads/main.zip
