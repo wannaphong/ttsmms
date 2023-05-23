@@ -3,7 +3,7 @@ Text-to-speech with The Massively Multilingual Speech (MMS) project
 
 This project want to help you for use Text-to-speech model from MMS project in Python.
 
-Support 1,143 Languages! (See support_list.txt)
+Support 1,107 Languages! (See support_list.txt)
 
 - VITS: [GitHub](https://github.com/jaywalnut310/vits)
 - MMS: Scaling Speech Technology to 1000+ languages: [GitHub](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
