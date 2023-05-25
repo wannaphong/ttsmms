@@ -86,7 +86,7 @@ class TextAudioLoader(torch.utils.data.Dataset):
         else:
             text_norm = text_to_sequence(text, self.text_cleaners)
         if self.add_blank:
-            text_norm = commons.intersperse(text_norm, 0)
+            text_norm = ttsmms.commons.intersperse(text_norm, 0)
         text_norm = torch.LongTensor(text_norm)
         return text_norm
 
@@ -224,7 +224,7 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
         else:
             text_norm = text_to_sequence(text, self.text_cleaners)
         if self.add_blank:
-            text_norm = commons.intersperse(text_norm, 0)
+            text_norm = ttsmms.commons.intersperse(text_norm, 0)
         text_norm = torch.LongTensor(text_norm)
         return text_norm
 

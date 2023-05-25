@@ -43,14 +43,13 @@ class TextMapper(object):
     def get_text(self, text, hps):
         text_norm = self.text_to_sequence(text, hps.data.text_cleaners)
         if hps.data.add_blank:
-            text_norm = commons.intersperse(text_norm, 0)
+            text_norm = ttsmms.commons.intersperse(text_norm, 0)
         text_norm = torch.LongTensor(text_norm)
         return text_norm
 
     def filter_oov(self, text):
         val_chars = self._symbol_to_id
         txt_filt = "".join(list(filter(lambda x: x in val_chars, text)))
-        # print(f"text after filtering OOV: {txt_filt}")
         return txt_filt
 
 class TTS:
@@ -109,9 +108,8 @@ def generate():
     _ = net_g.eval()
 
     g_pth = f"{ckpt_dir}/G_100000.pth"
-    # print(f"load {g_pth}")
 
-    _ = utils.load_checkpoint(g_pth, net_g, None)
+    _ = ttsmms.utils.load_checkpoint(g_pth, net_g, None)
 
     # print(f"text: {txt}")
     txt = txt.lower()
