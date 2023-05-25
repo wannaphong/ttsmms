@@ -18,7 +18,7 @@ requirements = [
 
 setup(
     name="ttsmms",
-    version="0.3",
+    version="0.4",
     description="Text-to-speech with The Massively Multilingual Speech (MMS) project",
     long_description=readme,
     long_description_content_type="text/markdown",
