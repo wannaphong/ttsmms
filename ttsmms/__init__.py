@@ -97,15 +97,16 @@ class TTS:
     def _use_uroman(self, txt):
         if self.is_uroman != True:
             return txt
-        with tempfile.TemporaryDirectory() as tmp_dir:
-            if self.uroman_dir is None:
+        if self.uroman_dir is None:
+            tmp_dir = os.path.join(os.getcwd(),"uroman")
+            if os.path.exists() == False:
                 cmd = f"git clone https://github.com/isi-nlp/uroman.git {tmp_dir}"
                 logging.info(f"downloading uroman and save to {tmp_dir}")
                 subprocess.check_output(cmd, shell=True)
-                self.uroman_dir = tmp_dir
-            uroman_pl = os.path.join(self.uroman_dir, "bin", "uroman.pl")
-            logging.info("uromanize")
-            txt =  self.text_mapper.uromanize(txt, uroman_pl)
+            self.uroman_dir = tmp_dir
+        uroman_pl = os.path.join(self.uroman_dir, "bin", "uroman.pl")
+        logging.info("uromanize")
+        txt =  self.text_mapper.uromanize(txt, uroman_pl)
         return txt
     def synthesis(self, txt, wav_path=None):
         txt = self._use_uroman(txt)
