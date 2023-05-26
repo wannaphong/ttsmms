@@ -105,7 +105,7 @@ class TTS:
                 self.uroman_dir = tmp_dir
             uroman_pl = os.path.join(self.uroman_dir, "bin", "uroman.pl")
             logging.info("uromanize")
-            txt =  self.text_mapper.uromanize(txt, uroman_pl)
+        txt =  self.text_mapper.uromanize(txt, uroman_pl)
         return txt
     def synthesis(self, txt, wav_path=None):
         txt = self._use_uroman(txt)
