@@ -99,7 +99,7 @@ class TTS:
             return txt
         with tempfile.TemporaryDirectory() as tmp_dir:
             if self.uroman_dir is None:
-                cmd = f"git clone git@github.com:isi-nlp/uroman.git {tmp_dir}"
+                cmd = f"git clone https://github.com/isi-nlp/uroman.git {tmp_dir}"
                 logging.info(f"downloading uroman and save to {tmp_dir}")
                 subprocess.check_output(cmd, shell=True)
                 self.uroman_dir = tmp_dir
