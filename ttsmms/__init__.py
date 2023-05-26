@@ -99,7 +99,7 @@ class TTS:
             return txt
         if self.uroman_dir is None:
             tmp_dir = os.path.join(os.getcwd(),"uroman")
-            if os.path.exists() == False:
+            if os.path.exists(tmp_dir) == False:
                 cmd = f"git clone https://github.com/isi-nlp/uroman.git {tmp_dir}"
                 logging.info(f"downloading uroman and save to {tmp_dir}")
                 subprocess.check_output(cmd, shell=True)
