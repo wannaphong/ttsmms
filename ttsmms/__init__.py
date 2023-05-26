@@ -4,8 +4,12 @@
 # LICENSE file in the root directory of this source tree.
 import os
 import glob
+import re
 import json
+import tempfile
+import subprocess
 import math
+import logging
 import torch
 from torch import nn
 from torch.nn import functional as F
@@ -39,6 +43,23 @@ class TextMapper(object):
             symbol_id = self._symbol_to_id[symbol]
             sequence += [symbol_id]
         return sequence
+    def uromanize(self, text, uroman_pl):
+        iso = "xxx"
+        with tempfile.NamedTemporaryFile() as tf, \
+             tempfile.NamedTemporaryFile() as tf2:
+            with open(tf.name, "w") as f:
+                f.write("\n".join([text]))
+            cmd = f"perl " + uroman_pl
+            cmd += f" -l {iso} "
+            cmd +=  f" < {tf.name} > {tf2.name}"
+            os.system(cmd)
+            outtexts = []
+            with open(tf2.name) as f:
+                for line in f:
+                    line =  re.sub(r"\s+", " ", line).strip()
+                    outtexts.append(line)
+            outtext = outtexts[0]
+        return outtext
 
     def get_text(self, text, hps):
         text_norm = self.text_to_sequence(text, hps.data.text_cleaners)
@@ -53,10 +74,11 @@ class TextMapper(object):
         return txt_filt
 
 class TTS:
-    def __init__(self, model_dir_path: str) -> None:
+    def __init__(self, model_dir_path: str, uroman_dir:str=None) -> None:
         self.model_path = model_dir_path
         self.vocab_file = f"{self.model_path}/vocab.txt"
         self.config_file = f"{self.model_path}/config.json"
+        self.uroman_dir = uroman_dir
         assert os.path.isfile(self.config_file), f"{self.config_file} doesn't exist"
         self.hps = ttsmms.utils.get_hparams_from_file(self.config_file)
         self.text_mapper = TextMapper(self.vocab_file)
@@ -71,7 +93,22 @@ class TTS:
         self.g_pth = f"{self.model_path}/G_100000.pth"
         _ = ttsmms.utils.load_checkpoint(self.g_pth, self.net_g, None)
         self.sampling_rate=self.hps.data.sampling_rate
+        self.is_uroman = self.hps.data.training_files.split('.')[-1] == 'uroman'
+    def _use_uroman(self, txt):
+        if self.is_uroman != True:
+            return txt
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            if self.uroman_dir is None:
+                cmd = f"git clone git@github.com:isi-nlp/uroman.git {tmp_dir}"
+                logging.info(f"downloading uroman and save to {tmp_dir}")
+                subprocess.check_output(cmd, shell=True)
+                self.uroman_dir = tmp_dir
+            uroman_pl = os.path.join(self.uroman_dir, "bin", "uroman.pl")
+            logging.info("uromanize")
+            txt =  self.text_mapper.uromanize(txt, uroman_pl)
+        return txt
     def synthesis(self, txt, wav_path=None):
+        txt = self._use_uroman(txt)
         txt = self.text_mapper.filter_oov(txt)
         stn_tst = self.text_mapper.get_text(txt, self.hps)
         with torch.no_grad():
