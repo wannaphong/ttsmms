@@ -21,10 +21,13 @@ import argparse
 from ttsmms.data_utils import TextAudioLoader, TextAudioCollate, TextAudioSpeakerLoader, TextAudioSpeakerCollate
 from ttsmms.models import SynthesizerTrn
 from scipy.io.wavfile import write
+from pathlib import Path
 
 
 def download(lang, tgt_dir="./"):
     lang_fn, lang_dir = os.path.join(tgt_dir, lang+'.tar.gz'), os.path.join(tgt_dir, lang)
+    Path(tgt_dir).mkdir(parents=True, exist_ok=True)
+    Path(lang_dir).mkdir(parents=True, exist_ok=True)
     isExist = os.path.exists(lang_dir)
     if isExist:
         return lang_dir
