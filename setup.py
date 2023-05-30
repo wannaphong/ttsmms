@@ -13,7 +13,8 @@ requirements = [
     "torch",
     "torchvision",
     "Unidecode",
-    "monotonic-align"
+    "monotonic-align",
+    "requests"
 ]
 
 setup(
