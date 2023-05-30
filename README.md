@@ -21,11 +21,21 @@ Support 1,107 Languages! (See support_list.txt)
 
 First, you need to download the model by
 
+```python
+from ttsmms import download
+
+dir_path = download("eng","./data") # lang_code, dir for save model
+```
+
+or download file by yourself
+
 **Linux/Mac**
+
+1. download
 
 > curl https://dl.fbaipublicfiles.com/mms/tts/lang_code.tar.gz --output lang_code.tar.gz
 
-and extract a tar ball archive.
+2. extract a tar ball archive.
 
 **Linux/Mac**
 
@@ -36,7 +46,7 @@ and use code in python :D
 ```python
 from ttsmms import TTS
 
-tts=TTS("model_dir_path") # your path dir that extract a tar ball archive
+tts=TTS(dir_path) # or "model_dir_path" your path dir that extract a tar ball archive
 wav=tts.synthesis("txt")
 # output:
 # {
