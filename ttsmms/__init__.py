@@ -40,7 +40,7 @@ def download(lang, tgt_dir="./"):
     import tarfile
     file = tarfile.open(lang_fn)
     print(f"extract all {lang} to {lang_dir}")
-    file.extractall(lang_dir)
+    file.extractall(tgt_dir)
     file.close()
     print("Done")
     return lang_dir
