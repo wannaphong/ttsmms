@@ -22,6 +22,25 @@ from ttsmms.data_utils import TextAudioLoader, TextAudioCollate, TextAudioSpeake
 from ttsmms.models import SynthesizerTrn
 from scipy.io.wavfile import write
 
+
+def download(lang, tgt_dir="./"):
+    lang_fn, lang_dir = os.path.join(tgt_dir, lang+'.tar.gz'), os.path.join(tgt_dir, lang)
+    isExist = os.path.exists(lang_dir)
+    if isExist:
+        return lang_dir
+    from urllib.request import urlretrieve
+    url = f"https://dl.fbaipublicfiles.com/mms/tts/{lang}.tar.gz"
+    print(f"downloading {lang} from {url}")
+    urllib.request.urlretrieve(url, lang_fn)
+    import tarfile
+    file = tarfile.open(lang_fn)
+    print(f"extract all {lang} to {lang_dir}")
+    file.extractall(lang_dir)
+    file.close()
+    print("Done")
+    return lang_dir
+
+
 class TextMapper(object):
     def __init__(self, vocab_file):
         self.symbols = [x.replace("\n", "") for x in open(vocab_file, encoding="utf-8").readlines()]
