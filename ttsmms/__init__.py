@@ -26,15 +26,17 @@ from pathlib import Path
 
 def download(lang, tgt_dir="./"):
     lang_fn, lang_dir = os.path.join(tgt_dir, lang+'.tar.gz'), os.path.join(tgt_dir, lang)
-    Path(tgt_dir).mkdir(parents=True, exist_ok=True)
-    Path(lang_dir).mkdir(parents=True, exist_ok=True)
     isExist = os.path.exists(lang_dir)
+    if isExist:
+        return lang_dir
+    Path(tgt_dir).mkdir(parents=True, exist_ok=True)
     if isExist:
         return lang_dir
     from urllib.request import urlretrieve
     url = f"https://dl.fbaipublicfiles.com/mms/tts/{lang}.tar.gz"
     print(f"downloading {lang} from {url}")
     urlretrieve(url, lang_fn)
+    Path(lang_dir).mkdir(parents=True, exist_ok=True)
     import tarfile
     file = tarfile.open(lang_fn)
     print(f"extract all {lang} to {lang_dir}")
