@@ -31,7 +31,7 @@ def download(lang, tgt_dir="./"):
     from urllib.request import urlretrieve
     url = f"https://dl.fbaipublicfiles.com/mms/tts/{lang}.tar.gz"
     print(f"downloading {lang} from {url}")
-    urllib.request.urlretrieve(url, lang_fn)
+    urlretrieve(url, lang_fn)
     import tarfile
     file = tarfile.open(lang_fn)
     print(f"extract all {lang} to {lang_dir}")
