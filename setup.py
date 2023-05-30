@@ -14,7 +14,6 @@ requirements = [
     "torchvision",
     "Unidecode",
     "monotonic-align",
-    "requests"
 ]
 
 setup(
