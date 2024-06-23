@@ -22,6 +22,7 @@ from ttsmms.data_utils import TextAudioLoader, TextAudioCollate, TextAudioSpeake
 from ttsmms.models import SynthesizerTrn
 from scipy.io.wavfile import write
 from pathlib import Path
+import xml.etree.ElementTree as ET
 
 
 def download(lang, tgt_dir="./"):
@@ -96,6 +97,123 @@ class TextMapper(object):
         val_chars = self._symbol_to_id
         txt_filt = "".join(list(filter(lambda x: x in val_chars, text)))
         return txt_filt
+
+class SSMLEnhancedTTS:
+    def __init__(self, model_dir_path: str, uroman_dir: str = None) -> None:
+        self.model_path = model_dir_path
+        self.vocab_file = f"{self.model_path}/vocab.txt"
+        self.config_file = f"{self.model_path}/config.json"
+        self.uroman_dir = uroman_dir
+        assert os.path.isfile(self.config_file), f"{self.config_file} doesn't exist"
+        self.hps = utils.get_hparams_from_file(self.config_file)
+        self.text_mapper = TextMapper(self.vocab_file)
+        self.net_g = SynthesizerTrn(
+            len(self.text_mapper.symbols),
+            self.hps.data.filter_length // 2 + 1,
+            self.hps.train.segment_size // self.hps.data.hop_length,
+            **self.hps.model
+        )
+        _ = self.net_g.eval()
+        self.g_pth = f"{self.model_path}/G_100000.pth"
+        _ = utils.load_checkpoint(self.g_pth, self.net_g, None)
+        self.sampling_rate = self.hps.data.sampling_rate
+        self.is_uroman = self.hps.data.training_files.split('.')[-1] == 'uroman'
+    
+    def parse_ssml(self, ssml_text):
+        try:
+            root = ET.fromstring(ssml_text)
+            parsed_text = ""
+            instructions = []
+
+            for elem in root.iter():
+                if elem.tag == "speak":
+                    continue
+                elif elem.tag == "break":
+                    time = elem.attrib.get("time", "0ms")
+                    instructions.append({"type": "break", "time": time, "position": len(parsed_text)})
+                elif elem.tag == "prosody":
+                    rate = elem.attrib.get("rate", "100%")
+                    pitch = elem.attrib.get("pitch", "100%")
+                    volume = elem.attrib.get("volume", "100%")
+                    instructions.append({"type": "prosody", "rate": rate, "pitch": pitch, "volume": volume, "position": len(parsed_text)})
+                if elem.text:
+                    parsed_text += elem.text
+                if elem.tail:
+                    parsed_text += elem.tail
+
+            return parsed_text.strip(), instructions
+        except ET.ParseError:
+            raise ValueError("Invalid SSML input")
+
+    def adjust_parameters(self, instructions):
+        rate = 1.0
+        pitch = 1.0
+        volume = 1.0
+
+        for instruction in instructions:
+            if instruction["type"] == "prosody":
+                rate = float(instruction["rate"].replace("%", "")) / 100.0
+                pitch = float(instruction["pitch"].replace("%", "")) / 100.0
+                volume = float(instruction["volume"].replace("%", "")) / 100.0
+
+        return rate, pitch, volume
+
+    def synthesis(self, text, ssml=False, wav_path=None, convert_to_pcm16=True):
+        if ssml:
+            text, instructions = self.parse_ssml(text)
+            rate, pitch, volume = self.adjust_parameters(instructions)
+        else:
+            rate, pitch, volume = 1.0, 1.0, 1.0
+
+        return self._synthesize_with_parameters(text, rate, pitch, volume, wav_path, convert_to_pcm16)
+
+    def _synthesize_with_parameters(self, text, rate, pitch, volume, wav_path, convert_to_pcm16):
+        txt = self._use_uroman(text)
+        txt = self.text_mapper.filter_oov(txt)
+        stn_tst = self.text_mapper.get_text(txt, self.hps)
+        with torch.no_grad():
+            x_tst = stn_tst.unsqueeze(0)
+            x_tst_lengths = torch.LongTensor([stn_tst.size(0)])
+            hyp = self.net_g.infer(
+                x_tst, x_tst_lengths, noise_scale=0.667,
+                noise_scale_w=0.8, length_scale=rate
+            )[0][0, 0].cpu().float().numpy()
+
+        # Adjust pitch and volume
+        hyp = self.adjust_audio(hyp, pitch, volume)
+
+        if convert_to_pcm16:
+            hyp = (hyp * 32767).astype(np.int16)
+
+        if wav_path:
+            write(wav_path, self.sampling_rate, hyp)
+            return wav_path
+
+        return {"audio_bytes": hyp.tobytes(), "sampling_rate": self.sampling_rate}
+
+    def adjust_audio(self, audio, pitch, volume):
+        # Apply pitch shift (simplified)
+        audio = np.interp(np.arange(0, len(audio), pitch), np.arange(0, len(audio)), audio)
+
+        # Apply volume adjustment
+        audio = audio * volume
+
+        return audio
+
+    def _use_uroman(self, txt):
+        if self.is_uroman != True:
+            return txt
+        if self.uroman_dir is None:
+            tmp_dir = os.path.join(os.getcwd(), "uroman")
+            if os.path.exists(tmp_dir) == False:
+                cmd = f"git clone https://github.com/isi-nlp/uroman.git {tmp_dir}"
+                logging.info(f"downloading uroman and save to {tmp_dir}")
+                subprocess.check_output(cmd, shell=True)
+            self.uroman_dir = tmp_dir
+        uroman_pl = os.path.join(self.uroman_dir, "bin", "uroman.pl")
+        logging.info("uromanize")
+        txt = self.text_mapper.uromanize(txt, uroman_pl)
+        return txt
 
 class TTS:
     def __init__(self, model_dir_path: str, uroman_dir:str=None) -> None:
