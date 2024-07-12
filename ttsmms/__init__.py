@@ -22,6 +22,7 @@ from ttsmms.data_utils import TextAudioLoader, TextAudioCollate, TextAudioSpeake
 from ttsmms.models import SynthesizerTrn
 from scipy.io.wavfile import write
 from pathlib import Path
+import logging
 
 
 def download(lang, tgt_dir="./"):
@@ -34,15 +35,15 @@ def download(lang, tgt_dir="./"):
         return lang_dir
     from urllib.request import urlretrieve
     url = f"https://dl.fbaipublicfiles.com/mms/tts/{lang}.tar.gz"
-    print(f"downloading {lang} from {url}")
+    logging.info(f"downloading {lang} from {url}")
     urlretrieve(url, lang_fn)
     Path(lang_dir).mkdir(parents=True, exist_ok=True)
     import tarfile
     file = tarfile.open(lang_fn)
-    print(f"extract all {lang} to {lang_dir}")
+    logging.info(f"extract all {lang} to {lang_dir}")
     file.extractall(tgt_dir)
     file.close()
-    print("Done")
+    logging.info("Done")
     return lang_dir
 
 
@@ -132,21 +133,29 @@ class TTS:
         logging.info("uromanize")
         txt =  self.text_mapper.uromanize(txt, uroman_pl)
         return txt
-    def synthesis(self, txt, wav_path=None):
+
+    def synthesis(self, txt, wav_path=None, convert_to_pcm16=True):
         txt = self._use_uroman(txt)
         txt = self.text_mapper.filter_oov(txt)
         stn_tst = self.text_mapper.get_text(txt, self.hps)
         with torch.no_grad():
-            x_tst = stn_tst.unsqueeze(0)#.cuda()
-            x_tst_lengths = torch.LongTensor([stn_tst.size(0)])#.cuda()
+            x_tst = stn_tst.unsqueeze(0)  # .cuda()
+            x_tst_lengths = torch.LongTensor([stn_tst.size(0)])  # .cuda()
             hyp = self.net_g.infer(
                 x_tst, x_tst_lengths, noise_scale=.667,
                 noise_scale_w=0.8, length_scale=1.0
-            )[0][0,0].cpu().float().numpy()
-        if wav_path != None:
+            )[0][0, 0].cpu().float().numpy()
+        
+        if convert_to_pcm16:
+            # Convert to 16-bit PCM
+            hyp = (hyp * 32767).astype(np.int16)
+        
+        if wav_path:
             write(wav_path, self.hps.data.sampling_rate, hyp)
             return wav_path
-        return {"x":hyp,"sampling_rate":self.sampling_rate}
+        
+        return {"audio_bytes": hyp.tobytes(), "sampling_rate": self.sampling_rate}
+
 
 def generate():
     parser = argparse.ArgumentParser(description='TTS inference')

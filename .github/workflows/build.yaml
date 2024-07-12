@@ -1,0 +1,159 @@
+name: Build and Publish Wheels
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+
+jobs:
+  build_wheels:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+        python-version: ['3.10', '3.11']
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install wheel
+
+      - name: Build wheel for the library
+        run: python setup.py bdist_wheel -d wheelhouse
+
+      - name: List wheelhouse contents before uploading
+        run: ls -R wheelhouse
+
+      - name: Upload wheels
+        uses: actions/upload-artifact@v3
+        with:
+          name: wheelhouse-${{ matrix.os }}-${{ matrix.python-version }}
+          path: wheelhouse/
+          retention-days: 1  # Optional: Specify the number of days to retain the artifact
+          if-no-files-found: error
+
+  test_wheels:
+    runs-on: ubuntu-latest
+    needs: build_wheels
+    strategy:
+      matrix:
+        python-version: ['3.10', '3.11']
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: List available artifacts
+        run: |
+          echo "Available artifacts:"
+          ls -1 /home/runner/work/ttsmms/ttsmms
+
+      - name: Download wheels for linux
+        uses: actions/download-artifact@v3
+        with:
+          name: wheelhouse-ubuntu-latest-${{ matrix.python-version }}
+          path: wheelhouse
+
+      - name: Download wheels for windows
+        uses: actions/download-artifact@v3
+        with:
+          name: wheelhouse-windows-latest-${{ matrix.python-version }}
+          path: wheelhouse
+
+      - name: Download wheels for macos
+        uses: actions/download-artifact@v3
+        with:
+          name: wheelhouse-macos-latest-${{ matrix.python-version }}
+          path: wheelhouse
+
+      - name: List contents of wheelhouse after download
+        run: ls -R wheelhouse
+
+      - name: Install test dependencies
+        run: |
+          pip install pytest
+          pip install wheelhouse/*.whl
+
+      - name: List files in the working directory
+        run: ls -R
+
+      - name: Run tests
+        run: pytest tests/
+
+  publish_wheels:
+    runs-on: ubuntu-latest
+    needs: test_wheels
+    if: startsWith(github.ref, 'refs/tags/')
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: List available artifacts
+        run: |
+          echo "Available artifacts:"
+          ls -1 /home/runner/work/ttsmms/ttsmms
+
+      - name: Download wheels for linux
+        uses: actions/download-artifact@v3
+        with:
+          name: wheelhouse-ubuntu-latest-3.10
+          path: dist
+
+      - name: Download wheels for windows
+        uses: actions/download-artifact@v3
+        with:
+          name: wheelhouse-windows-latest-3.10
+          path: dist
+
+      - name: Download wheels for macos
+        uses: actions/download-artifact@v3
+        with:
+          name: wheelhouse-macos-latest-3.10
+          path: dist
+
+      - name: Download wheels for linux
+        uses: actions/download-artifact@v3
+        with:
+          name: wheelhouse-ubuntu-latest-3.11
+          path: dist
+
+      - name: Download wheels for windows
+        uses: actions/download-artifact@v3
+        with:
+          name: wheelhouse-windows-latest-3.11
+          path: dist
+
+      - name: Download wheels for macos
+        uses: actions/download-artifact@v3
+        with:
+          name: wheelhouse-macos-latest-3.11
+          path: dist
+
+      - name: List contents of dist after download
+        run: ls -R dist
+
+      - name: Publish package to Test PyPI
+        uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          user: __token__
+          password: ${{ secrets.PYPI_API_TOKEN }}

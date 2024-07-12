@@ -1,0 +1,1144 @@
+Iso Code	Language Name	IETF Code	Script
+abi	Abidji	abi	Latin
+ace	Aceh	ace	Latin
+aca	Achagua	aca	Latin
+acn	Achang	acn	Latin
+acr	Achi	acr	Latin
+ach	Acholi	ach	Latin
+acu	Achuar-Shiwiar	acu	Latin
+guq	Aché	guq	Latin
+ade	Adele	ade	Latin
+adj	Adioukrou	adj	Latin
+agd	Agarabi	agd	Latin
+agx	Aghul	agx	Latin
+agn	Agutaynen	agn	Latin
+aha	Ahanta	aha	Latin
+aka	Akan	ak	Latin
+knj	Akateko	knj	Latin
+ake	Akawaio	ake	Latin
+aeu	Akeu	aeu	Latin
+ahk	Akha	ahk	Latin
+bss	Akoose	bss	Latin
+alj	Alangan	alj	Latin
+sqi	Albanian	sq	Latin
+alt	Altai, Southern	alt	Latin
+alp	Alune	alp	Latin
+alz	Alur	alz	Latin
+kab	Amazigh	kab	Latin
+amk	Ambai	amk	Latin
+mmg	Ambrym, North	mmg	Latin
+amh	Amharic	am	Latin
+ami	Amis	ami	Latin
+azg	Amuzgo, San Pedro Amuzgos	azg	Latin
+agg	Angor	agg	Latin
+boj	Anjam	boj	Latin
+cko	Anufo	cko	Latin
+any	Anyin	any	Latin
+arl	Arabela	arl	Latin
+ara	Arabic	ar	Latin
+atq	Aralle-Tabulahan	atq	Latin
+luc	Aringa	luc	Latin
+hyw	Armenian, Western	hyw	Latin
+apr	Arop-Lokep	apr	Latin
+aia	Arosi	aia	Latin
+msy	Aruamu	msy	Latin
+cni	Asháninka	cni	Latin
+cjo	Ashéninka, Pajonal	cjo	Latin
+cpu	Ashéninka, Pichis	cpu	Latin
+cpb	Ashéninka, Ucayali-Yurúa	cpb	Latin
+asm	Assamese	as	Latin
+asa	Asu	asa	Latin
+teo	Ateso	teo	Latin
+ati	Attié	ati	Latin
+djk	Aukan	djk	Latin
+ava	Avar	av	Latin
+avn	Avatime	avn	Latin
+avu	Avokaya	avu	Latin
+awb	Awa	awb	Latin
+kwi	Awa-Cuaiquer	kwi	Latin
+awa	Awadhi	awa	Latin
+agr	Awajún	agr	Latin
+agu	Awakateko	agu	Latin
+ayr	Aymara, Central	ayr	Latin
+ayo	Ayoreo	ayo	Latin
+abp	Ayta, Abellen	abp	Latin
+blx	Ayta, Mag-Indi	blx	Latin
+sgb	Ayta, Mag-antsi	sgb	Latin
+azj-script_cyrillic	Azerbaijani, North	azj	Latin
+azj-script_latin	Azerbaijani, North	azj	Latin
+azb	Azerbaijani, South	azb	Latin
+bba	Baatonum	bba	Latin
+bhz	Bada	bhz	Latin
+bvc	Baelelea	bvc	Latin
+bfy	Bagheli	bfy	Latin
+bgq	Bagri	bgq	Latin
+bdq	Bahnar	bdq	Latin
+bdh	Baka	bdh	Latin
+bqi	Bakhtiâri	bqi	Latin
+bjw	Bakwé	bjw	Latin
+blz	Balantak	blz	Latin
+ban	Bali	ban	Latin
+bcc-script_latin	Balochi, Southern	bcc	Latin
+bcc-script_arabic	Balochi, Southern	bcc	Latin
+bam	Bamanankan	bm	Latin
+ptu	Bambam	ptu	Latin
+bcw	Bana	bcw	Latin
+bqj	Bandial	bqj	Latin
+bno	Bantoanon	bno	Latin
+bbb	Barai	bbb	Latin
+bfa	Bari	bfa	Latin
+bjz	Baruga	bjz	Latin
+bak	Bashkort	ba	Latin
+eus	Basque	eu	Latin
+bsq	Bassa	bsq	Latin
+akb	Batak Angkola	akb	Latin
+btd	Batak Dairi	btd	Latin
+btx	Batak Karo	btx	Latin
+bts	Batak Simalungun	bts	Latin
+bbc	Batak Toba	bbc	Latin
+bvz	Bauzi	bvz	Latin
+bjv	Bedjond	bjv	Latin
+bep	Behoa	bep	Latin
+bkv	Bekwarra	bkv	Latin
+bzj	Belize English Creole	bzj	Latin
+bem	Bemba	bem	Latin
+bng	Benga	bng	Latin
+ben	Bengali	bn	Latin
+bom	Berom	bom	Latin
+btt	Bete-Bendi	btt	Latin
+bha	Bharia	bha	Latin
+bgw	Bhatri	bgw	Latin
+bht	Bhattiyali	bht	Latin
+beh	Biali	beh	Latin
+sne	Bidayuh, Bau	sne	Latin
+ubl	Bikol, Buhi’non	ubl	Latin
+bcl	Bikol, Central	bcl	Latin
+bim	Bimoba	bim	Latin
+bkd	Binukid	bkd	Latin
+bjr	Binumarien	bjr	Latin
+bfo	Birifor, Malba	bfo	Latin
+biv	Birifor, Southern	biv	Latin
+bib	Bisa	bib	Latin
+bis	Bislama	bi	Latin
+bzi	Bisu	bzi	Latin
+bqp	Bisã	bqp	Latin
+bpr	Blaan, Koronadal	bpr	Latin
+bps	Blaan, Sarangani	bps	Latin
+bwq	Bobo Madaré, Southern	bwq	Latin
+bdv	Bodo Parja	bdv	Latin
+bqc	Boko	bqc	Latin
+bus	Bokobaru	bus	Latin
+bnp	Bola	bnp	Latin
+bmq	Bomu	bmq	Latin
+bdg	Bonggi	bdg	Latin
+boa	Bora	boa	Latin
+ksr	Borong	ksr	Latin
+bor	Borôro	bor	Latin
+bru	Bru, Eastern	bru	Latin
+box	Buamu	box	Latin
+bzh	Buang, Mapos	bzh	Latin
+bgt	Bughotu	bgt	Latin
+sab	Buglere	sab	Latin
+bul	Bulgarian	bg	Latin
+bwu	Buli	bwu	Latin
+bmv	Bum	bmv	Latin
+mya	Burmese	my	Latin
+tte	Bwanabwana	tte	Latin
+cjp	Cabécar	cjp	Latin
+cbv	Cacua	cbv	Latin
+kaq	Capanahua	kaq	Latin
+cot	Caquinte	cot	Latin
+cbc	Carapana	cbc	Latin
+car	Carib	car	Latin
+cat	Catalan	ca	Latin
+ceb	Cebuano	ceb	Latin
+cme	Cerma	cme	Latin
+cbi	Chachi	cbi	Latin
+ceg	Chamacoco	ceg	Latin
+cly	Chatino, Eastern Highland	cly	Latin
+cya	Chatino, Nopala	cya	Latin
+che	Chechen	ce	Latin
+hne	Chhattisgarhi	hne	Latin
+nya	Chichewa	ny	Latin
+dig	Chidigo	dig	Latin
+dug	Chiduruma	dug	Latin
+bgr	Chin, Bawm	bgr	Latin
+cek	Chin, Eastern Khumi	cek	Latin
+cfm	Chin, Falam	cfm	Latin
+cnh	Chin, Hakha	cnh	Latin
+hlt	Chin, Matu	hlt	Latin
+mwq	Chin, Müün	mwq	Latin
+ctd	Chin, Tedim	ctd	Latin
+tcz	Chin, Thado	tcz	Latin
+zyp	Chin, Zyphe	zyp	Latin
+cco	Chinantec, Comaltepec	cco	Latin
+cnl	Chinantec, Lalana	cnl	Latin
+cle	Chinantec, Lealao	cle	Latin
+chz	Chinantec, Ozumacín	chz	Latin
+cpa	Chinantec, Palantla	cpa	Latin
+cso	Chinantec, Sochiapam	cso	Latin
+cnt	Chinantec, Tepetotutla	cnt	Latin
+cuc	Chinantec, Usila	cuc	Latin
+hak	Chinese, Hakka	hak	Latin
+nan	Chinese, Min Nan	nan	Latin
+xnj	Chingoni	xnj	Latin
+cap	Chipaya	cap	Latin
+cax	Chiquitano	cax	Latin
+ctg	Chittagonian	ctg	Latin
+ctu	Chol	ctu	Latin
+chf	Chontal, Tabasco	chf	Latin
+cce	Chopi	cce	Latin
+crt	Chorote, Iyojwa’ja	crt	Latin
+crq	Chorote, Iyo’wujwa	crq	Latin
+cac-dialect_sansebastiáncoatán	Chuj	cac	Latin
+cac-dialect_sanmateoixtatán	Chuj	cac	Latin
+ckt	Chukchi	ckt	Latin
+ncu	Chumburung	ncu	Latin
+cdj	Churahi	cdj	Latin
+chv	Chuvash	cv	Latin
+caa	Ch’orti’	caa	Latin
+asg	Cishingini	asg	Latin
+con	Cofán	con	Latin
+crn	Cora, El Nayar	crn	Latin
+cok	Cora, Santa Teresa	cok	Latin
+crk-script_latin	Cree, Plains	crk	Latin
+crk-script_syllabics	Cree, Plains	crk	Latin
+crh	Crimean Tatar	crh	Latin
+cui	Cuiba	cui	Latin
+dsh	Daasanach	dsh	Latin
+dbq	Daba	dbq	Latin
+dga	Dagaare, Southern	dga	Latin
+dgi	Dagara, Northern	dgi	Latin
+dgk	Dagba	dgk	Latin
+dnj-dialect_gweetaawueast	Dan	dnj	Latin
+dnj-dialect_blowowest	Dan	dnj	Latin
+daa	Dangaléat	daa	Latin
+dnt	Dani, Mid Grand Valley	dnt	Latin
+dnw	Dani, Western	dnw	Latin
+dar	Dargwa	dar	Latin
+tcc	Datooga	tcc	Latin
+dwr	Dawro	dwr	Latin
+ded	Dedua	ded	Latin
+mzw	Deg	mzw	Latin
+ntr	Delo	ntr	Latin
+ddn	Dendi	ddn	Latin
+des	Desano	des	Latin
+dso	Desiya	dso	Latin
+nfa	Dhao	nfa	Latin
+dhi	Dhimal	dhi	Latin
+gud	Dida, Yocoboué	gud	Latin
+did	Didinga	did	Latin
+mhu	Digaro-Mishmi	mhu	Latin
+dip	Dinka, Northeastern	dip	Latin
+dik	Dinka, Southwestern	dik	Latin
+tbz	Ditammari	tbz	Latin
+dts	Dogon, Toro So	dts	Latin
+dos	Dogosé	dos	Latin
+dgo	Dogri	dgo	Latin
+mvp	Duri	mvp	Latin
+nld	Dutch	nl	Latin
+jen	Dza	jen	Latin
+dzo	Dzongkha	dz	Latin
+idd	Ede Idaca	idd	Latin
+eka	Ekajuk	eka	Latin
+cto	Embera Catío	cto	Latin
+emp	Emberá, Northern	emp	Latin
+eng	English	en	Latin
+enx	Enxet	enx	Latin
+sja	Epena	sja	Latin
+myv	Erzya	myv	Latin
+mcq	Ese	mcq	Latin
+ese	Ese Ejja	ese	Latin
+evn	Evenki	evn	Latin
+eza	Ezaa	eza	Latin
+fal	Fali, South	fal	Latin
+fao	Faroese	fo	Latin
+far	Fataleka	far	Latin
+fij	Fijian	fj	Latin
+fin	Finnish	fi	Latin
+fon	Fon	fon	Latin
+frd	Fordata	frd	Latin
+fra	French	fr	Latin
+ful	Fulah	ff	Latin
+flr	Fuliiru	flr	Latin
+gau	Gadaba, Mudhili	gau	Latin
+gbk	Gaddi	gbk	Latin
+gag-script_cyrillic	Gagauz	gag	Latin
+gag-script_latin	Gagauz	gag	Latin
+gbi	Galela	gbi	Latin
+gmv	Gamo	gmv	Latin
+lug	Ganda	lg	Latin
+pwg	Gapapaiwa	pwg	Latin
+gbm	Garhwali	gbm	Latin
+cab	Garifuna	cab	Latin
+grt	Garo	grt	Latin
+krs	Gbaya	krs	Latin
+gso	Gbaya, Southwest	gso	Latin
+nlg	Gela	nlg	Latin
+gej	Gen	gej	Latin
+deu	German, Standard	de	Latin
+gri	Ghari	gri	Latin
+kik	Gikuyu	ki	Latin
+acd	Gikyode	acd	Latin
+glk	Gilaki	glk	Latin
+gof-script_latin	Gofa	gof	Latin
+gog	Gogo	gog	Latin
+gkn	Gokana	gkn	Latin
+wsg	Gondi, Adilabad	wsg	Latin
+gjn	Gonja	gjn	Latin
+gqr	Gor	gqr	Latin
+gor	Gorontalo	gor	Latin
+gux	Gourmanchéma	gux	Latin
+gbo	Grebo, Northern	gbo	Latin
+ell	Greek	el	Latin
+grc	Greek, Ancient	grc	Latin
+guh	Guahibo	guh	Latin
+gub	Guajajára	gub	Latin
+grn	Guarani	gn	Latin
+gyr	Guarayu	gyr	Latin
+guo	Guayabero	guo	Latin
+gde	Gude	gde	Latin
+guj	Gujarati	gu	Latin
+gvl	Gulay	gvl	Latin
+guk	Gumuz	guk	Latin
+rub	Gungu	rub	Latin
+dah	Gwahatike	dah	Latin
+gwr	Gwere	gwr	Latin
+gwi	Gwich’in	gwi	Latin
+hat	Haitian Creole	ht	Latin
+hlb	Halbi	hlb	Latin
+amf	Hamer-Banna	amf	Latin
+hag	Hanga	hag	Latin
+hnn	Hanunoo	hnn	Latin
+bgc	Haryanvi	bgc	Latin
+had	Hatam	had	Latin
+hau	Hausa	ha	Latin
+hwc	Hawaii Pidgin	hwc	Latin
+hvn	Hawu	hvn	Latin
+hay	Haya	hay	Latin
+xed	Hdi	xed	Latin
+heb	Hebrew	he	Latin
+heh	Hehe	heh	Latin
+hil	Hiligaynon	hil	Latin
+hin	Hindi	hi	Latin
+hif	Hindi, Fiji	hif	Latin
+hns	Hindustani, Sarnami	hns	Latin
+hoc	Ho	hoc	Latin
+hoy	Holiya	hoy	Latin
+hus-dialect_westernpotosino	Huastec	hus	Latin
+hus-dialect_centralveracruz	Huastec	hus	Latin
+huv	Huave, San Mateo del Mar	huv	Latin
+hui	Huli	hui	Latin
+hun	Hungarian	hu	Latin
+hap	Hupla	hap	Latin
+iba	Iban	iba	Latin
+isl	Icelandic	is	Latin
+dbj	Ida’an	dbj	Latin
+ifa	Ifugao, Amganad	ifa	Latin
+ifb	Ifugao, Batad	ifb	Latin
+ifu	Ifugao, Mayoyao	ifu	Latin
+ifk	Ifugao, Tuwali	ifk	Latin
+ife	Ifè	ife	Latin
+ign	Ignaciano	ign	Latin
+ikk	Ika	ikk	Latin
+iqw	Ikwo	iqw	Latin
+ilb	Ila	ilb	Latin
+ilo	Ilocano	ilo	Latin
+imo	Imbongu	imo	Latin
+ind	Indonesian	id	Latin
+inb	Inga	inb	Latin
+ipi	Ipili	ipi	Latin
+irk	Iraqw	irk	Latin
+icr	Islander English Creole	icr	Latin
+itv	Itawit	itv	Latin
+itl	Itelmen	itl	Latin
+atg	Ivbie North-Okpela-Arhe	atg	Latin
+ixl-dialect_sanjuancotzal	Ixil	ixl	Latin
+ixl-dialect_sangasparchajul	Ixil	ixl	Latin
+ixl-dialect_santamarianebaj	Ixil	ixl	Latin
+nca	Iyo	nca	Latin
+izr	Izere	izr	Latin
+izz	Izii	izz	Latin
+jac	Jakalteko	jac	Latin
+jam	Jamaican English Creole	jam	Latin
+jav	Javanese	jv	Latin
+jvn	Javanese, Suriname	jvn	Latin
+kac	Jingpho	kac	Latin
+dyo	Jola-Fonyi	dyo	Latin
+csk	Jola-Kasa	csk	Latin
+adh	Jopadhola	adh	Latin
+jun	Juang	jun	Latin
+jbu	Jukun Takum	jbu	Latin
+dyu	Jula	dyu	Latin
+bex	Jur Modo	bex	Latin
+juy	Juray	juy	Latin
+gna	Kaansa	gna	Latin
+urb	Kaapor	urb	Latin
+kbp	Kabiyè	kbp	Latin
+cwa	Kabwa	cwa	Latin
+dtp	Kadazan Dusun	dtp	Latin
+kbr	Kafa	kbr	Latin
+cgc	Kagayanen	cgc	Latin
+kki	Kagulu	kki	Latin
+kzf	Kaili, Da’a	kzf	Latin
+lew	Kaili, Ledo	lew	Latin
+cbr	Kakataibo-Kashibo	cbr	Latin
+kkj	Kako	kkj	Latin
+keo	Kakwa	keo	Latin
+kqe	Kalagan	kqe	Latin
+kak	Kalanguya	kak	Latin
+kyb	Kalinga, Butbut	kyb	Latin
+knb	Kalinga, Lubuagan	knb	Latin
+kmd	Kalinga, Majukayang	kmd	Latin
+kml	Kalinga, Tanudan	kml	Latin
+ify	Kallahan, Keley-i	ify	Latin
+xal	Kalmyk-Oirat	xal	Latin
+kbq	Kamano	kbq	Latin
+kay	Kamayurá	kay	Latin
+ktb	Kambaata	ktb	Latin
+hig	Kamwe	hig	Latin
+gam	Kandawo	gam	Latin
+cbu	Kandozi-Chapra	cbu	Latin
+xnr	Kangri	xnr	Latin
+kmu	Kanite	kmu	Latin
+kne	Kankanaey	kne	Latin
+kan	Kannada	kn	Latin
+kby	Kanuri, Manga	kby	Latin
+pam	Kapampangan	pam	Latin
+cak-dialect_santamaríadejesús	Kaqchikel	cak	Latin
+cak-dialect_southcentral	Kaqchikel	cak	Latin
+cak-dialect_yepocapa	Kaqchikel	cak	Latin
+cak-dialect_western	Kaqchikel	cak	Latin
+cak-dialect_santodomingoxenacoj	Kaqchikel	cak	Latin
+cak-dialect_central	Kaqchikel	cak	Latin
+xrb	Karaboro, Eastern	xrb	Latin
+krc	Karachay-Balkar	krc	Latin
+kaa	Karakalpak	kaa	Latin
+krl	Karelian	krl	Latin
+pww	Karen, Pwo Northern	pww	Latin
+xsm	Kasem	xsm	Latin
+cbs	Kashinawa	cbs	Latin
+pss	Kaulong	pss	Latin
+kxf	Kawyaw	kxf	Latin
+kyz	Kayabí	kyz	Latin
+kyu	Kayah, Western	kyu	Latin
+txu	Kayapó	txu	Latin
+kaz	Kazakh	kk	Latin
+ndp	Kebu	ndp	Latin
+kbo	Keliko	kbo	Latin
+kyq	Kenga	kyq	Latin
+ken	Kenyang	ken	Latin
+ker	Kera	ker	Latin
+xte	Ketengban	xte	Latin
+kyg	Keyagana	kyg	Latin
+kjh	Khakas	kjh	Latin
+kca	Khanty	kca	Latin
+khm	Khmer	km	Latin
+kxm	Khmer, Northern	kxm	Latin
+kjg	Khmu	kjg	Latin
+nyf	Kigiryama	nyf	Latin
+kij	Kilivila	kij	Latin
+kia	Kim	kia	Latin
+kqr	Kimaragang	kqr	Latin
+kqp	Kimré	kqp	Latin
+krj	Kinaray-a	krj	Latin
+zga	Kinga	zga	Latin
+kin	Kinyarwanda	rw	Latin
+pkb	Kipfokomo	pkb	Latin
+geb	Kire	geb	Latin
+gil	Kiribati	gil	Latin
+kje	Kisar	kje	Latin
+kss	Kisi, Southern	kss	Latin
+thk	Kitharaka	thk	Latin
+klu	Klao	klu	Latin
+kyo	Klon	kyo	Latin
+kog	Kogi	kog	Latin
+kfb	Kolami, Northwestern	kfb	Latin
+kpv	Komi-Zyrian	kpv	Latin
+bbo	Konabéré	bbo	Latin
+xon	Konkomba	xon	Latin
+kma	Konni	kma	Latin
+kno	Kono	kno	Latin
+kxc	Konso	kxc	Latin
+ozm	Koonzime	ozm	Latin
+kqy	Koorete	kqy	Latin
+kor	Korean	ko	Latin
+coe	Koreguaje	coe	Latin
+kpq	Korupun-Sela	kpq	Latin
+kpy	Koryak	kpy	Latin
+kyf	Kouya	kyf	Latin
+kff-script_telugu	Koya	kff	Latin
+kri	Krio	kri	Latin
+rop	Kriol	rop	Latin
+ktj	Krumen, Plapo	ktj	Latin
+ted	Krumen, Tepo	ted	Latin
+krr	Krung	krr	Latin
+kdt	Kuay	kdt	Latin
+kez	Kukele	kez	Latin
+cul	Kulina	cul	Latin
+kle	Kulung	kle	Latin
+kdi	Kumam	kdi	Latin
+kue	Kuman	kue	Latin
+kum	Kumyk	kum	Latin
+kvn	Kuna, Border	kvn	Latin
+cuk	Kuna, San Blas	cuk	Latin
+kdn	Kunda	kdn	Latin
+xuo	Kuo	xuo	Latin
+key	Kupia	key	Latin
+kpz	Kupsapiiny	kpz	Latin
+knk	Kuranko	knk	Latin
+kmr-script_latin	Kurdish, Northern	kmr	Latin
+kmr-script_arabic	Kurdish, Northern	kmr	Latin
+kmr-script_cyrillic	Kurdish, Northern	kmr	Latin
+xua	Kurumba, Alu	xua	Latin
+kru	Kurux	kru	Latin
+kus	Kusaal	kus	Latin
+kub	Kutep	kub	Latin
+kdc	Kutu	kdc	Latin
+kxv	Kuvi	kxv	Latin
+blh	Kuwaa	blh	Latin
+cwt	Kuwaataay	cwt	Latin
+kwd	Kwaio	kwd	Latin
+tnk	Kwamera	tnk	Latin
+kwf	Kwara’ae	kwf	Latin
+cwe	Kwere	cwe	Latin
+kyc	Kyaka	kyc	Latin
+tye	Kyanga	tye	Latin
+kir	Kyrgyz	ky	Latin
+quc-dialect_north	K’iche’	quc	Latin
+quc-dialect_east	K’iche’	quc	Latin
+quc-dialect_central	K’iche’	quc	Latin
+lac	Lacandon	lac	Latin
+lsi	Lacid	lsi	Latin
+lbj	Ladakhi	lbj	Latin
+lhu	Lahu	lhu	Latin
+las	Lama	las	Latin
+lam	Lamba	lam	Latin
+lns	Lamnso’	lns	Latin
+ljp	Lampung Api	ljp	Latin
+laj	Lango	laj	Latin
+lao	Lao	lo	Latin
+lat	Latin	la	Latin
+lav	Latvian	lv	Latin
+law	Lauje	law	Latin
+lcp	Lawa, Western	lcp	Latin
+lzz	Laz	lzz	Latin
+lln	Lele	lln	Latin
+lef	Lelemi	lef	Latin
+acf	Lesser Antillean French Creole	acf	Latin
+lww	Lewo	lww	Latin
+mhx	Lhao Vo	mhx	Latin
+eip	Lik	eip	Latin
+lia	Limba, West-Central	lia	Latin
+lif	Limbu	lif	Latin
+onb	Lingao	onb	Latin
+lis	Lisu	lis	Latin
+loq	Lobala	loq	Latin
+lob	Lobi	lob	Latin
+yaz	Lokaa	yaz	Latin
+lok	Loko	lok	Latin
+llg	Lole	llg	Latin
+ycl	Lolopo	ycl	Latin
+lom	Loma	lom	Latin
+ngl	Lomwe	ngl	Latin
+lon	Lomwe, Malawi	lon	Latin
+lex	Luang	lex	Latin
+lgg	Lugbara	lgg	Latin
+ruf	Luguru	ruf	Latin
+dop	Lukpa	dop	Latin
+lnd	Lundayeh	lnd	Latin
+ndy	Lutos	ndy	Latin
+lwo	Luwo	lwo	Latin
+lee	Lyélé	lee	Latin
+mev	Maan	mev	Latin
+mfz	Mabaan	mfz	Latin
+jmc	Machame	jmc	Latin
+myy	Macuna	myy	Latin
+mbc	Macushi	mbc	Latin
+mda	Mada	mda	Latin
+mad	Madura	mad	Latin
+mag	Magahi	mag	Latin
+ayz	Mai Brat	ayz	Latin
+mai	Maithili	mai	Latin
+mca	Maka	mca	Latin
+mcp	Makaa	mcp	Latin
+mak	Makasar	mak	Latin
+vmw	Makhuwa	vmw	Latin
+mgh	Makhuwa-Meetto	mgh	Latin
+kde	Makonde	kde	Latin
+mlg	Malagasy	mg	Latin
+zlm	Malay	zlm	Latin
+pse	Malay, Central	pse	Latin
+mkn	Malay, Kupang	mkn	Latin
+xmm	Malay, Manado	xmm	Latin
+mal	Malayalam	ml	Latin
+xdy	Malayic Dayak	xdy	Latin
+div	Maldivian	dv	Latin
+mdy	Male	mdy	Latin
+mup	Malvi	mup	Latin
+mam-dialect_central	Mam	mam	Latin
+mam-dialect_northern	Mam	mam	Latin
+mam-dialect_southern	Mam	mam	Latin
+mam-dialect_western	Mam	mam	Latin
+mqj	Mamasa	mqj	Latin
+mcu	Mambila, Cameroon	mcu	Latin
+mzk	Mambila, Nigeria	mzk	Latin
+maw	Mampruli	maw	Latin
+mjl	Mandeali	mjl	Latin
+mnk	Mandinka	mnk	Latin
+mge	Mango	mge	Latin
+mbh	Mangseng	mbh	Latin
+knf	Mankanya	knf	Latin
+mjv	Mannan	mjv	Latin
+mbt	Manobo, Matigsalug	mbt	Latin
+obo	Manobo, Obo	obo	Latin
+mbb	Manobo, Western Bukidnon	mbb	Latin
+mzj	Manya	mzj	Latin
+sjm	Mapun	sjm	Latin
+mrw	Maranao	mrw	Latin
+mar	Marathi	mr	Latin
+mpg	Marba	mpg	Latin
+mhr	Mari, Meadow	mhr	Latin
+enb	Markweeta	enb	Latin
+mah	Marshallese	mh	Latin
+myx	Masaaba	myx	Latin
+klv	Maskelynes	klv	Latin
+mfh	Matal	mfh	Latin
+met	Mato	met	Latin
+mcb	Matsigenka	mcb	Latin
+mop	Maya, Mopán	mop	Latin
+yua	Maya, Yucatec	yua	Latin
+mfy	Mayo	mfy	Latin
+maz	Mazahua, Central	maz	Latin
+vmy	Mazatec, Ayautla	vmy	Latin
+maq	Mazatec, Chiquihuitlán	maq	Latin
+mzi	Mazatec, Ixcatlán	mzi	Latin
+maj	Mazatec, Jalapa de Díaz	maj	Latin
+maa-dialect_sanantonio	Mazatec, San Jerónimo Tecóatl	maa	Latin
+maa-dialect_sanjerónimo	Mazatec, San Jerónimo Tecóatl	maa	Latin
+mhy	Ma’anyan	mhy	Latin
+mhi	Ma’di	mhi	Latin
+zmz	Mbandja	zmz	Latin
+myb	Mbay	myb	Latin
+gai	Mbore	gai	Latin
+mqb	Mbuko	mqb	Latin
+mbu	Mbula-Bwazza	mbu	Latin
+med	Melpa	med	Latin
+men	Mende	men	Latin
+mee	Mengen	mee	Latin
+mwv	Mentawai	mwv	Latin
+meq	Merey	meq	Latin
+zim	Mesme	zim	Latin
+mgo	Meta’	mgo	Latin
+mej	Meyah	mej	Latin
+mpp	Migabac	mpp	Latin
+min	Minangkabau	min	Latin
+gum	Misak	gum	Latin
+mpx	Misima-Panaeati	mpx	Latin
+mco	Mixe, Coatlán	mco	Latin
+mxq	Mixe, Juquila	mxq	Latin
+pxm	Mixe, Quetzaltepec	pxm	Latin
+mto	Mixe, Totontepec	mto	Latin
+mim	Mixtec, Alacatlatzala	mim	Latin
+xta	Mixtec, Alcozauca	xta	Latin
+mbz	Mixtec, Amoltepec	mbz	Latin
+mip	Mixtec, Apasco-Apoala	mip	Latin
+mib	Mixtec, Atatlahuca	mib	Latin
+miy	Mixtec, Ayutla	miy	Latin
+mih	Mixtec, Chayuco	mih	Latin
+miz	Mixtec, Coatzospan	miz	Latin
+xtd	Mixtec, Diuxi-Tilantongo	xtd	Latin
+mxt	Mixtec, Jamiltepec	mxt	Latin
+xtm	Mixtec, Magdalena Peñasco	xtm	Latin
+mxv	Mixtec, Metlatónoc	mxv	Latin
+xtn	Mixtec, Northern Tlaxiaco	xtn	Latin
+mie	Mixtec, Ocotepec	mie	Latin
+mil	Mixtec, Peñoles	mil	Latin
+mio	Mixtec, Pinotepa Nacional	mio	Latin
+mdv	Mixtec, Santa Lucía Monteverde	mdv	Latin
+mza	Mixtec, Santa María Zacatepec	mza	Latin
+mit	Mixtec, Southern Puebla	mit	Latin
+mxb	Mixtec, Tezoatlán	mxb	Latin
+mpm	Mixtec, Yosondúa	mpm	Latin
+soy	Miyobe	soy	Latin
+cmo-script_latin	Mnong, Central	cmo	Latin
+cmo-script_khmer	Mnong, Central	cmo	Latin
+mfq	Moba	mfq	Latin
+old	Mochi	old	Latin
+mfk	Mofu, North	mfk	Latin
+mif	Mofu-Gudur	mif	Latin
+mkl	Mokole	mkl	Latin
+mox	Molima	mox	Latin
+myl	Moma	myl	Latin
+mqf	Momuna	mqf	Latin
+mnw	Mon	mnw	Latin
+mon	Mongolian	mn	Latin
+mog	Mongondow	mog	Latin
+mfe	Morisyen	mfe	Latin
+mor	Moro	mor	Latin
+mqn	Moronene	mqn	Latin
+mgd	Moru	mgd	Latin
+mtj	Moskona	mtj	Latin
+cmr	Mro-Khimi	cmr	Latin
+mtd	Mualang	mtd	Latin
+bmr	Muinane	bmr	Latin
+moz	Mukulu	moz	Latin
+mzm	Mumuye	mzm	Latin
+mnb	Muna	mnb	Latin
+mnf	Mundani	mnf	Latin
+unr	Mundari	unr	Latin
+fmu	Muria, Far Western	fmu	Latin
+mur	Murle	mur	Latin
+tih	Murut, Timugon	tih	Latin
+muv	Muthuvan	muv	Latin
+muy	Muyang	muy	Latin
+sur	Mwaghavul	sur	Latin
+moa	Mwan	moa	Latin
+wmw	Mwani	wmw	Latin
+tnr	Ménik	tnr	Latin
+miq	Mískito	miq	Latin
+mos	Mòoré	mos	Latin
+muh	Mündü	muh	Latin
+nas	Naasioi	nas	Latin
+mbj	Nadëb	mbj	Latin
+nfr	Nafaanra	nfr	Latin
+kfw	Naga, Kharam	kfw	Latin
+nst	Naga, Tangshang	nst	Latin
+nag	Nagamese	nag	Latin
+nch	Nahuatl, Central Huasteca	nch	Latin
+nhe	Nahuatl, Eastern Huasteca	nhe	Latin
+ngu	Nahuatl, Guerrero	ngu	Latin
+azz	Nahuatl, Highland Puebla	azz	Latin
+nhx	Nahuatl, Isthmus-Mecayapan	nhx	Latin
+ncl	Nahuatl, Michoacán	ncl	Latin
+nhy	Nahuatl, Northern Oaxaca	nhy	Latin
+ncj	Nahuatl, Northern Puebla	ncj	Latin
+nsu	Nahuatl, Sierra Negra	nsu	Latin
+npl	Nahuatl, Southeastern Puebla	npl	Latin
+nuz	Nahuatl, Tlamacazapa	nuz	Latin
+nhw	Nahuatl, Western Huasteca	nhw	Latin
+nhi	Nahuatl, Zacatlán-Ahuacatlán-Tepetzintla	nhi	Latin
+nlc	Nalca	nlc	Latin
+nab	Nambikuára, Southern	nab	Latin
+gld	Nanai	gld	Latin
+nnb	Nande	nnb	Latin
+npy	Napu	npy	Latin
+pbb	Nasa	pbb	Latin
+ntm	Nateni	ntm	Latin
+nmz	Nawdm	nmz	Latin
+naw	Nawuri	naw	Latin
+nxq	Naxi	nxq	Latin
+ndj	Ndamba	ndj	Latin
+ndz	Ndogo	ndz	Latin
+ndv	Ndut	ndv	Latin
+new	Newar	new	Latin
+nij	Ngaju	nij	Latin
+sba	Ngambay	sba	Latin
+gng	Ngangam	gng	Latin
+nga	Ngbaka	nga	Latin
+nnq	Ngindo	nnq	Latin
+ngp	Ngulu	ngp	Latin
+gym	Ngäbere	gym	Latin
+kdj	Ng’akarimojong	kdj	Latin
+nia	Nias	nia	Latin
+nim	Nilamba	nim	Latin
+nin	Ninzo	nin	Latin
+nko	Nkonya	nko	Latin
+nog	Nogai	nog	Latin
+lem	Nomaande	lem	Latin
+not	Nomatsigenga	not	Latin
+nhu	Noone	nhu	Latin
+bud	Ntcham	bud	Latin
+nus	Nuer	nus	Latin
+yas	Nugunu	yas	Latin
+nnw	Nuni, Southern	nnw	Latin
+nwb	Nyabwa	nwb	Latin
+nyy	Nyakyusa-Ngonde	nyy	Latin
+nyn	Nyankore	nyn	Latin
+rim	Nyaturu	rim	Latin
+lid	Nyindrou	lid	Latin
+nuj	Nyole	nuj	Latin
+nyo	Nyoro	nyo	Latin
+nzi	Nzema	nzi	Latin
+ann	Obolo	ann	Latin
+ory	Odia	ory	Latin
+ojb-script_latin	Ojibwa, Northwestern	ojb	Latin
+ojb-script_syllabics	Ojibwa, Northwestern	ojb	Latin
+oku	Oku	oku	Latin
+bsc	Oniyan	bsc	Latin
+bdu	Oroko	bdu	Latin
+orm	Oromo	om	Latin
+ury	Orya	ury	Latin
+oss	Ossetic	os	Latin
+ote	Otomi, Mezquital	ote	Latin
+otq	Otomi, Querétaro	otq	Latin
+stn	Owa	stn	Latin
+sig	Paasaal	sig	Latin
+kfx	Pahari, Kullu	kfx	Latin
+bfz	Pahari, Mahasu	bfz	Latin
+sey	Paicoca	sey	Latin
+pao	Paiute, Northern	pao	Latin
+pau	Palauan	pau	Latin
+pce	Palaung, Ruching	pce	Latin
+plw	Palawano, Brooke’s Point	plw	Latin
+pmf	Pamona	pmf	Latin
+pag	Pangasinan	pag	Latin
+pap	Papiamentu	pap	Latin
+prf	Paranan	prf	Latin
+pab	Parecís	pab	Latin
+pbi	Parkwa	pbi	Latin
+pbc	Patamona	pbc	Latin
+pad	Paumarí	pad	Latin
+ata	Pele-Ata	ata	Latin
+pez	Penan, Eastern	pez	Latin
+peg	Pengo	peg	Latin
+fas	Persian	fa	Latin
+pcm	Pidgin, Nigerian	pcm	Latin
+pis	Pijin	pis	Latin
+pny	Pinyin	pny	Latin
+pir	Piratapuyo	pir	Latin
+pjt	Pitjantjatjara	pjt	Latin
+poy	Pogolo	poy	Latin
+pol	Polish	pl	Latin
+pps	Popoloca, San Luís Temalacayuca	pps	Latin
+pls	Popoloca, San Marcos Tlacoyalco	pls	Latin
+poi	Popoluca, Highland	poi	Latin
+poh-dialect_eastern	Poqomchi’	poh	Latin
+poh-dialect_western	Poqomchi’	poh	Latin
+por	Portuguese	pt	Latin
+prt	Prai	prt	Latin
+pui	Puinave	pui	Latin
+pan	Punjabi, Eastern	pa	Latin
+tsz	Purepecha	tsz	Latin
+suv	Puroik	suv	Latin
+lme	Pévé	lme	Latin
+quy	Quechua, Ayacucho	quy	Latin
+qvc	Quechua, Cajamarca	qvc	Latin
+quz	Quechua, Cusco	quz	Latin
+qve	Quechua, Eastern Apurímac	qve	Latin
+qub	Quechua, Huallaga	qub	Latin
+qvh	Quechua, Huamalíes-Dos de Mayo Huánuco	qvh	Latin
+qwh	Quechua, Huaylas Ancash	qwh	Latin
+qvw	Quechua, Huaylla Wanca	qvw	Latin
+quf	Quechua, Lambayeque	quf	Latin
+qvm	Quechua, Margos-Yarowilca-Lauricocha	qvm	Latin
+qul	Quechua, North Bolivian	qul	Latin
+qvn	Quechua, North Junín	qvn	Latin
+qxn	Quechua, Northern Conchucos Ancash	qxn	Latin
+qxh	Quechua, Panao	qxh	Latin
+qvs	Quechua, San Martín	qvs	Latin
+quh	Quechua, South Bolivian	quh	Latin
+qxo	Quechua, Southern Conchucos	qxo	Latin
+qxr	Quichua, Cañar Highland	qxr	Latin
+qvo	Quichua, Napo	qvo	Latin
+qvz	Quichua, Northern Pastaza	qvz	Latin
+qxl	Quichua, Salasaca Highland	qxl	Latin
+quw	Quichua, Tena Lowland	quw	Latin
+kjb	Q’anjob’al	kjb	Latin
+kek	Q’eqchi’	kek	Latin
+rah	Rabha	rah	Latin
+rjs	Rajbanshi	rjs	Latin
+rai	Ramoaaina	rai	Latin
+lje	Rampi	lje	Latin
+rnl	Ranglong	rnl	Latin
+rkt	Rangpuri	rkt	Latin
+rap	Rapa Nui	rap	Latin
+yea	Ravula	yea	Latin
+raw	Rawang	raw	Latin
+rej	Rejang	rej	Latin
+rel	Rendille	rel	Latin
+ril	Riang Lang	ril	Latin
+iri	Rigwe	iri	Latin
+rgu	Rikou	rgu	Latin
+rhg	Rohingya	rhg	Latin
+rmc-script_latin	Romani, Carpathian	rmc	Latin
+rmc-script_cyrillic	Romani, Carpathian	rmc	Latin
+rmo	Romani, Sinte	rmo	Latin
+rmy-script_latin	Romani, Vlax	rmy	Latin
+rmy-script_cyrillic	Romani, Vlax	rmy	Latin
+ron	Romanian	ro	Latin
+rol	Romblomanon	rol	Latin
+cla	Ron	cla	Latin
+rng	Ronga	rng	Latin
+rug	Roviana	rug	Latin
+run	Rundi	rn	Latin
+rus	Russian	ru	Latin
+lsm	Saamya-Gwe	lsm	Latin
+spy	Sabaot	spy	Latin
+sck	Sadri	sck	Latin
+saj	Sahu	saj	Latin
+sch	Sakachep	sch	Latin
+sml	Sama, Central	sml	Latin
+xsb	Sambal	xsb	Latin
+sbl	Sambal, Botolan	sbl	Latin
+saq	Samburu	saq	Latin
+sbd	Samo, Southern	sbd	Latin
+smo	Samoan	sm	Latin
+rav	Sampang	rav	Latin
+sxn	Sangir	sxn	Latin
+sag	Sango	sg	Latin
+sbp	Sangu	sbp	Latin
+xsu	Sanumá	xsu	Latin
+srm	Saramaccan	srm	Latin
+sas	Sasak	sas	Latin
+apb	Sa’a	apb	Latin
+sgw	Sebat Bet Gurage	sgw	Latin
+tvw	Sedoa	tvw	Latin
+lip	Sekpele	lip	Latin
+slu	Selaru	slu	Latin
+snw	Selee	snw	Latin
+sea	Semai	sea	Latin
+sza	Semelai	sza	Latin
+seh	Sena	seh	Latin
+crs	Seychelles French Creole	crs	Latin
+ksb	Shambala	ksb	Latin
+shn	Shan	shn	Latin
+sho	Shanga	sho	Latin
+mcd	Sharanahua	mcd	Latin
+cbt	Shawi	cbt	Latin
+xsr	Sherpa	xsr	Latin
+shk	Shilluk	shk	Latin
+shp	Shipibo-Conibo	shp	Latin
+sna	Shona	sn	Latin
+cjs	Shor	cjs	Latin
+jiv	Shuar	jiv	Latin
+snp	Siane	snp	Latin
+sya	Siang	sya	Latin
+sid	Sidamo	sid	Latin
+snn	Siona	snn	Latin
+sri	Siriano	sri	Latin
+srx	Sirmauri	srx	Latin
+sil	Sisaala, Tumulung	sil	Latin
+sld	Sissala	sld	Latin
+akp	Siwu	akp	Latin
+xog	Soga	xog	Latin
+som	Somali	so	Latin
+bmu	Somba-Siawari	bmu	Latin
+khq	Songhay, Koyra Chiini	khq	Latin
+ses	Songhay, Koyraboro Senni	ses	Latin
+mnx	Sougb	mnx	Latin
+spa	Spanish	es	Latin
+srn	Sranan Tongo	srn	Latin
+sxb	Suba	sxb	Latin
+suc	Subanon, Western	suc	Latin
+tgo	Sudest	tgo	Latin
+suk	Sukuma	suk	Latin
+sun	Sunda	su	Latin
+suz	Sunwar	suz	Latin
+sgj	Surgujia	sgj	Latin
+sus	Susu	sus	Latin
+swh	Swahili	swh	Latin
+swe	Swedish	sv	Latin
+syl	Sylheti	syl	Latin
+dyi	Sénoufo, Djimini	dyi	Latin
+myk	Sénoufo, Mamara	myk	Latin
+spp	Sénoufo, Supyire	spp	Latin
+tap	Taabwa	tap	Latin
+tby	Tabaru	tby	Latin
+tna	Tacana	tna	Latin
+shi	Tachelhit	shi	Latin
+klw	Tado	klw	Latin
+tgl	Tagalog	fil	Latin
+tbk	Tagbanwa, Calamian	tbk	Latin
+tgj	Tagin	tgj	Latin
+blt	Tai Dam	blt	Latin
+tbg	Tairora, North	tbg	Latin
+omw	Tairora, South	omw	Latin
+tgk	Tajik	tg	Latin
+tdj	Tajio	tdj	Latin
+tbc	Takia	tbc	Latin
+tlj	Talinga-Bwisi	tlj	Latin
+tly	Talysh	tly	Latin
+ttq-script_tifinagh	Tamajaq, Tawallammat	ttq	Latin
+taj	Tamang, Eastern	taj	Latin
+taq	Tamasheq	taq	Latin
+tam	Tamil	ta	Latin
+tpm	Tampulma	tpm	Latin
+tgp	Tangoa	tgp	Latin
+tnn	Tanna, North	tnn	Latin
+tac	Tarahumara, Western	tac	Latin
+rif-script_latin	Tarifit	rif	Latin
+rif-script_arabic	Tarifit	rif	Latin
+tat	Tatar	tt	Latin
+tav	Tatuyo	tav	Latin
+twb	Tawbuid	twb	Latin
+tbl	Tboli	tbl	Latin
+kps	Tehit	kps	Latin
+twe	Teiwa	twe	Latin
+ttc	Tektiteko	ttc	Latin
+tel	Telugu	te	Latin
+kdh	Tem	kdh	Latin
+tes	Tengger	tes	Latin
+tex	Tennet	tex	Latin
+tee	Tepehua, Huehuetla	tee	Latin
+tpp	Tepehua, Pisaflores	tpp	Latin
+tpt	Tepehua, Tlachichilco	tpt	Latin
+stp	Tepehuan, Southeastern	stp	Latin
+tfr	Teribe	tfr	Latin
+twu	Termanu	twu	Latin
+ter	Terêna	ter	Latin
+tew	Tewa	tew	Latin
+tha	Thai	th	Latin
+nod	Thai, Northern	nod	Latin
+thl	Tharu, Dangaura	thl	Latin
+tem	Themne	tem	Latin
+adx	Tibetan, Amdo	adx	Latin
+bod	Tibetan, Central	bo	Latin
+khg	Tibetan, Khams	khg	Latin
+tca	Ticuna	tca	Latin
+tir	Tigrigna	ti	Latin
+txq	Tii	txq	Latin
+tik	Tikar	tik	Latin
+dgr	Tlicho	dgr	Latin
+tob	Toba	tob	Latin
+tmf	Toba-Maskoy	tmf	Latin
+tng	Tobanga	tng	Latin
+tlb	Tobelo	tlb	Latin
+ood	Tohono O’odham	ood	Latin
+tpi	Tok Pisin	tpi	Latin
+jic	Tol	jic	Latin
+lbw	Tolaki	lbw	Latin
+txa	Tombonuo	txa	Latin
+tom	Tombulu	tom	Latin
+toh	Tonga	toh	Latin
+tnt	Tontemboan	tnt	Latin
+sda	Toraja-Sa’dan	sda	Latin
+tcs	Torres Strait Creole	tcs	Latin
+toc	Totonac, Coyutla	toc	Latin
+tos	Totonac, Highland	tos	Latin
+neb	Toura	neb	Latin
+trn	Trinitario	trn	Latin
+trs	Triqui, Chicahuaxtla	trs	Latin
+trc	Triqui, Copala	trc	Latin
+tri	Trió	tri	Latin
+cof	Tsafiki	cof	Latin
+tkr	Tsakhur	tkr	Latin
+kdl	Tsikimba	kdl	Latin
+cas	Tsimané	cas	Latin
+tso	Tsonga	ts	Latin
+tuo	Tucano	tuo	Latin
+iou	Tuma-Irumu	iou	Latin
+tmc	Tumak	tmc	Latin
+tuf	Tunebo, Central	tuf	Latin
+tur	Turkish	tr	Latin
+tuk-script_latin	Turkmen	tk	Latin
+tuk-script_arabic	Turkmen	tk	Latin
+bov	Tuwuli	bov	Latin
+tue	Tuyuca	tue	Latin
+kcg	Tyap	kcg	Latin
+tzh-dialect_bachajón	Tzeltal	tzh	Latin
+tzh-dialect_tenejapa	Tzeltal	tzh	Latin
+tzo-dialect_chenalhó	Tzotzil	tzo	Latin
+tzo-dialect_chamula	Tzotzil	tzo	Latin
+tzj-dialect_western	Tz’utujil	tzj	Latin
+tzj-dialect_eastern	Tz’utujil	tzj	Latin
+aoz	Uab Meto	aoz	Latin
+udm	Udmurt	udm	Latin
+udu	Uduk	udu	Latin
+ukr	Ukrainian	uk	Latin
+ppk	Uma	ppk	Latin
+ubu	Umbu-Ungu	ubu	Latin
+urk	Urak Lawoi’	urk	Latin
+ura	Urarina	ura	Latin
+urt	Urat	urt	Latin
+urd-script_devanagari	Urdu	ur	Latin
+urd-script_arabic	Urdu	ur	Latin
+urd-script_latin	Urdu	ur	Latin
+upv	Uripiv-Wala-Rano-Atchin	upv	Latin
+usp	Uspanteko	usp	Latin
+uig-script_arabic	Uyghur	ug	Latin
+uig-script_cyrillic	Uyghur	ug	Latin
+uzb-script_cyrillic	Uzbek	uz	Latin
+vag	Vagla	vag	Latin
+bav	Vengo	bav	Latin
+vid	Vidunda	vid	Latin
+vie	Vietnamese	vi	Latin
+vif	Vili	vif	Latin
+vun	Vunjo	vun	Latin
+vut	Vute	vut	Latin
+prk	Wa, Parauk	prk	Latin
+wwa	Waama	wwa	Latin
+rro	Waima	rro	Latin
+bao	Waimaha	bao	Latin
+waw	Waiwai	waw	Latin
+lgl	Wala	lgl	Latin
+wlx	Wali	wlx	Latin
+cou	Wamey	cou	Latin
+hub	Wampís	hub	Latin
+gvc	Wanano	gvc	Latin
+mfi	Wandala	mfi	Latin
+wap	Wapishana	wap	Latin
+wba	Warao	wba	Latin
+war	Waray-Waray	war	Latin
+way	Wayana	way	Latin
+guc	Wayuu	guc	Latin
+cym	Welsh	cy	Latin
+kvw	Wersing	kvw	Latin
+tnp	Whitesands	tnp	Latin
+hto	Witoto, Minika	hto	Latin
+huu	Witoto, Murui	huu	Latin
+wal-script_latin	Wolaytta	wal	Latin
+wal-script_ethiopic	Wolaytta	wal	Latin
+wlo	Wolio	wlo	Latin
+noa	Woun Meu	noa	Latin
+wob	Wè Northern	wob	Latin
+kao	Xaasongaxango	kao	Latin
+xer	Xerénte	xer	Latin
+yad	Yagua	yad	Latin
+yka	Yakan	yka	Latin
+sah	Yakut	sah	Latin
+yba	Yala	yba	Latin
+yli	Yali, Angguruk	yli	Latin
+nlk	Yali, Ninia	nlk	Latin
+yal	Yalunka	yal	Latin
+yam	Yamba	yam	Latin
+yat	Yambeta	yat	Latin
+jmd	Yamdena	jmd	Latin
+tao	Yami	tao	Latin
+yaa	Yaminahua	yaa	Latin
+ame	Yanesha’	ame	Latin
+guu	Yanomamö	guu	Latin
+yao	Yao	yao	Latin
+yre	Yaouré	yre	Latin
+yva	Yawa	yva	Latin
+ybb	Yemba	ybb	Latin
+pib	Yine	pib	Latin
+byr	Yipma	byr	Latin
+pil	Yom	pil	Latin
+yor	Yoruba	yo	Latin
+ycn	Yucuna	ycn	Latin
+ess	Yupik, Saint Lawrence Island	ess	Latin
+yuz	Yuracare	yuz	Latin
+atb	Zaiwa	atb	Latin
+zne	Zande	zne	Latin
+zaq	Zapotec, Aloápam	zaq	Latin
+zpo	Zapotec, Amatlán	zpo	Latin
+zad	Zapotec, Cajonos	zad	Latin
+zpc	Zapotec, Choapan	zpc	Latin
+zca	Zapotec, Coatecas Altas	zca	Latin
+zpg	Zapotec, Guevea de Humboldt	zpg	Latin
+zai	Zapotec, Isthmus	zai	Latin
+zpl	Zapotec, Lachixío	zpl	Latin
+zam	Zapotec, Miahuatlán	zam	Latin
+zaw	Zapotec, Mitla	zaw	Latin
+zpm	Zapotec, Mixtepec	zpm	Latin
+zac	Zapotec, Ocotlán	zac	Latin
+zao	Zapotec, Ozolotepec	zao	Latin
+ztq	Zapotec, Quioquitani-Quierí	ztq	Latin
+zar	Zapotec, Rincón	zar	Latin
+zpt	Zapotec, San Vicente Coatlán	zpt	Latin
+zpi	Zapotec, Santa María Quiegolani	zpi	Latin
+zas	Zapotec, Santo Domingo Albarradas	zas	Latin
+zaa	Zapotec, Sierra de Juárez	zaa	Latin
+zpz	Zapotec, Texmelucan	zpz	Latin
+zab	Zapotec, Western Tlacolula Valley	zab	Latin
+zpu	Zapotec, Yalálag	zpu	Latin
+zae	Zapotec, Yareni	zae	Latin
+zty	Zapotec, Yatee	zty	Latin
+zav	Zapotec, Yatzachi	zav	Latin
+zza	Zaza	zza	Latin
+zyb	Zhuang, Yongbei	zyb	Latin
+ziw	Zigula	ziw	Latin
+zos	Zoque, Francisco León	zos	Latin
+gnd	Zulgo-Gemzek	gnd	Latin
+ewe	Éwé	ee	Latin
